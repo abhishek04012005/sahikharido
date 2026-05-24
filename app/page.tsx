@@ -1,65 +1,95 @@
-import Image from "next/image";
+import React from 'react';
+import Hero from '@/components/Hero/Hero';
+import ProductCard from '@/components/ProductCard/ProductCard';
+import BlogCard from '@/components/BlogCard/BlogCard';
+import productsData from '@/data/products.json';
+import categoriesData from '@/data/categories.json';
+import blogsData from '@/data/blogs.json';
 
 export default function Home() {
+  const trendingProducts = productsData.filter(p => p.isTrending).slice(0, 4);
+  const latestBlogs = blogsData.slice(0, 3); // Get top 3 latest blogs
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <>
+      <Hero />
+      
+      {/* Trending Products Section */}
+      <section className="container" style={{ padding: 'var(--space-3xl) var(--space-md)' }}>
+        <div style={{ marginBottom: 'var(--space-xl)', textAlign: 'center' }}>
+          <h2 style={{ fontSize: '2rem', fontWeight: 700, color: 'var(--color-secondary)', marginBottom: 'var(--space-sm)' }}>
+            Trending Products
+          </h2>
+          <p style={{ color: 'var(--color-text-muted)' }}>Discover what's hot right now based on our expert reviews.</p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+        
+        <div style={{ 
+          display: 'grid', 
+          gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', 
+          gap: 'var(--space-lg)' 
+        }}>
+          {trendingProducts.map(product => (
+            <ProductCard key={product.id} product={product} />
+          ))}
         </div>
-      </main>
-    </div>
+      </section>
+
+      {/* Categories Grid (Simplified for now) */}
+      <section style={{ backgroundColor: 'var(--color-background-light)', padding: 'var(--space-3xl) 0' }}>
+        <div className="container">
+          <div style={{ marginBottom: 'var(--space-xl)', textAlign: 'center' }}>
+            <h2 style={{ fontSize: '2rem', fontWeight: 700, color: 'var(--color-secondary)' }}>
+              Shop by Category
+            </h2>
+          </div>
+          
+          <div style={{ 
+            display: 'grid', 
+            gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', 
+            gap: 'var(--space-md)' 
+          }}>
+            {categoriesData.map(category => (
+              <a 
+                key={category.id}
+                href={`/categories/${category.slug}`}
+                className="category-card-simple"
+                style={{
+                  backgroundColor: 'var(--color-background)',
+                  padding: 'var(--space-xl)',
+                  borderRadius: 'var(--radius-lg)',
+                  textAlign: 'center',
+                  textDecoration: 'none',
+                  color: 'var(--color-text)',
+                  border: '1px solid var(--color-border)',
+                  transition: 'transform var(--transition-fast)'
+                }}
+              >
+                <h3 style={{ fontWeight: 600 }}>{category.name}</h3>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Latest Blogs Section */}
+      <section className="container" style={{ padding: 'var(--space-3xl) var(--space-md)' }}>
+        <div style={{ marginBottom: 'var(--space-xl)', textAlign: 'center' }}>
+          <h2 style={{ fontSize: '2rem', fontWeight: 700, color: 'var(--color-secondary)', marginBottom: 'var(--space-sm)' }}>
+            Latest Buying Guides & Reviews
+          </h2>
+          <p style={{ color: 'var(--color-text-muted)' }}>Expert advice to help you make the right choice.</p>
+        </div>
+        
+        <div style={{ 
+          display: 'grid', 
+          gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))', 
+          gap: 'var(--space-xl)' 
+        }}>
+          {latestBlogs.map(blog => (
+            <BlogCard key={blog.id} blog={blog} />
+          ))}
+        </div>
+      </section>
+    </>
   );
 }

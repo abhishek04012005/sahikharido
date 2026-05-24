@@ -1,0 +1,156 @@
+[
+  {
+    "id": "prod-1",
+    "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+    "slug": "sony-wh-1000xm5",
+    "price": "$398.00",
+    "rating": 4.8,
+    "reviewsCount": 12450,
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?q=80&w=600&auto=format&fit=crop",
+    "description": "Industry leading noise canceling with two processors and 8 microphones.",
+    "features": [
+      "Auto Noise Canceling Optimizer",
+      "Up to 30-hour battery life",
+      "Ultra-comfortable, lightweight design"
+    ],
+    "pros": ["Best-in-class ANC", "Excellent sound quality", "Comfortable fit"],
+    "cons": ["Expensive", "Not water-resistant"],
+    "affiliateLink": "#",
+    "category": "electronics",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Sony"
+  },
+  {
+    "id": "prod-2",
+    "title": "Apple 2023 MacBook Pro Laptop M3 Pro",
+    "slug": "apple-macbook-pro-m3",
+    "price": "$1,999.00",
+    "rating": 4.9,
+    "reviewsCount": 3200,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=600&auto=format&fit=crop",
+    "description": "Supercharged by M3 Pro or M3 Max, MacBook Pro takes its power and efficiency further than ever.",
+    "features": [
+      "14.2-inch Liquid Retina XDR display",
+      "Up to 18 hours of battery life",
+      "18GB Unified Memory"
+    ],
+    "pros": ["Incredible performance", "Stunning display", "Great battery life"],
+    "cons": ["High price tag", "Heavy"],
+    "affiliateLink": "#",
+    "category": "electronics",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Apple"
+  },
+  {
+    "id": "prod-3",
+    "title": "Ninja AF101 Air Fryer",
+    "slug": "ninja-af101-air-fryer",
+    "price": "$89.95",
+    "rating": 4.7,
+    "reviewsCount": 45000,
+    "image": "https://images.unsplash.com/photo-1627308595229-783087095493?q=80&w=600&auto=format&fit=crop",
+    "description": "Crisps, Roasts, Reheats, & Dehydrates, for Quick, Easy Meals.",
+    "features": [
+      "4 Quart Capacity",
+      "Wide Temperature Range",
+      "Dishwasher Safe Parts"
+    ],
+    "pros": ["Easy to use", "Versatile cooking options", "Easy to clean"],
+    "cons": ["Small capacity for large families"],
+    "affiliateLink": "#",
+    "category": "kitchen",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Ninja"
+  },
+  {
+    "id": "prod-4",
+    "title": "Fitbit Charge 6 Fitness Tracker",
+    "slug": "fitbit-charge-6",
+    "price": "$159.95",
+    "rating": 4.5,
+    "reviewsCount": 8500,
+    "image": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?q=80&w=600&auto=format&fit=crop",
+    "description": "Give your routine a boost with the fitness tracker that has everything you need.",
+    "features": [
+      "Built-in GPS",
+      "Heart Rate on Equipment",
+      "7-Day Battery Life"
+    ],
+    "pros": ["Accurate tracking", "Google integration", "Sleek design"],
+    "cons": ["Premium subscription required for some features"],
+    "affiliateLink": "#",
+    "category": "fitness",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Fitbit"
+  },
+  {
+    "id": "prod-5",
+    "title": "Dell XPS 13 Plus Laptop",
+    "slug": "dell-xps-13-plus",
+    "price": "$1,299.00",
+    "rating": 4.7,
+    "reviewsCount": 2800,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=600&auto=format&fit=crop",
+    "description": "Ultra-thin and powerful laptop perfect for developers and creators.",
+    "features": [
+      "13.4-inch OLED display",
+      "Intel Core i7 Processor",
+      "16GB RAM & 512GB SSD"
+    ],
+    "pros": ["Ultra-portable", "Excellent build quality", "Vivid display"],
+    "cons": ["No ports", "Expensive"],
+    "affiliateLink": "#",
+    "category": "electronics",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Dell"
+  },
+  {
+    "id": "prod-6",
+    "title": "LG UltraWide Monitor 34 inch",
+    "slug": "lg-ultrawide-34",
+    "price": "$599.99",
+    "rating": 4.6,
+    "reviewsCount": 5200,
+    "image": "https://images.unsplash.com/photo-1555707519-2932856b5e16?q=80&w=600&auto=format&fit=crop",
+    "description": "Immersive ultrawide viewing experience for productivity and gaming.",
+    "features": [
+      "34-inch curved display",
+      "3440x1440 Resolution",
+      "USB-C with Power Delivery"
+    ],
+    "pros": ["Massive screen real estate", "Great for multitasking", "USB-C connectivity"],
+    "cons": ["Takes up desk space", "Expensive"],
+    "affiliateLink": "#",
+    "category": "electronics",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "LG"
+  },
+  {
+    "id": "prod-7",
+    "title": "Keychron K8 Pro Mechanical Keyboard",
+    "slug": "keychron-k8-pro",
+    "price": "$99.99",
+    "rating": 4.8,
+    "reviewsCount": 9300,
+    "image": "https://images.unsplash.com/photo-1587829191301-dc798b83add3?q=80&w=600&auto=format&fit=crop",
+    "description": "Wireless mechanical keyboard with hot-swappable switches and RGB lighting.",
+    "features": [
+      "Hot-swappable mechanical switches",
+      "Wireless & Wired modes",
+      "RGB Backlight"
+    ],
+    "pros": ["Great typing experience", "Affordable", "Wireless connectivity"],
+    "cons": ["No dedicated numpad", "Plastic case"],
+    "affiliateLink": "#",
+    "category": "electronics",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Keychron"
+  }
+]

@@ -1,0 +1,135 @@
+.footer {
+  background-color: var(--color-secondary);
+  color: #f3f4f6; /* Gray-100 */
+  padding: var(--space-3xl) 0 var(--space-xl);
+  margin-top: auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-2xl);
+  margin-bottom: var(--space-3xl);
+}
+
+@media (min-width: 640px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .grid {
+    grid-template-columns: 2fr 1fr 1fr 1.5fr;
+  }
+}
+
+.logo {
+  display: inline-block;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: -0.5px;
+  margin-bottom: var(--space-md);
+}
+
+.description {
+  color: #9ca3af; /* Gray-400 */
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: var(--space-lg);
+}
+
+.socials {
+  display: flex;
+  gap: var(--space-md);
+}
+
+.socials a {
+  color: #9ca3af;
+  transition: color var(--transition-fast);
+}
+
+.socials a:hover {
+  color: var(--color-primary);
+}
+
+.colTitle {
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: var(--space-lg);
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.links li {
+  margin-bottom: var(--space-sm);
+}
+
+.links a {
+  color: #9ca3af;
+  font-size: 0.95rem;
+  transition: color var(--transition-fast);
+}
+
+.links a:hover {
+  color: var(--color-primary);
+}
+
+.newsletterForm {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.input {
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-md);
+  border: 1px solid #4b5563; /* Gray-600 */
+  background-color: #374151; /* Gray-700 */
+  color: #ffffff;
+  font-family: inherit;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+.button {
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-md);
+  background-color: var(--color-primary);
+  color: #ffffff;
+  font-weight: 600;
+  transition: background-color var(--transition-fast);
+}
+
+.button:hover {
+  background-color: var(--color-primary-hover);
+}
+
+.bottom {
+  border-top: 1px solid #374151;
+  padding-top: var(--space-xl);
+  text-align: center;
+}
+
+.affiliate {
+  color: #9ca3af;
+  font-size: 0.85rem;
+  margin-bottom: var(--space-md);
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copyright {
+  color: #6b7280; /* Gray-500 */
+  font-size: 0.85rem;
+}
