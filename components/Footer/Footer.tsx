@@ -27,22 +27,10 @@ const Footer = () => {
           </div>
 
           <div className={styles.col}>
-            <h3 className={styles.colTitle}>Categories</h3>
+            <h3 className={styles.colTitle}>Explore</h3>
             <ul className={styles.links}>
-              <li><Link href="/categories/electronics">Electronics</Link></li>
-              <li><Link href="/categories/home-appliances">Home Appliances</Link></li>
-              <li><Link href="/categories/kitchen">Kitchen</Link></li>
-              <li><Link href="/categories/fitness">Fitness</Link></li>
-            </ul>
-          </div>
-
-          <div className={styles.col}>
-            <h3 className={styles.colTitle}>Quick Links</h3>
-            <ul className={styles.links}>
-              <li><Link href="/about">About Us</Link></li>
-              <li><Link href="/contact">Contact</Link></li>
-              <li><Link href="/privacy-policy">Privacy Policy</Link></li>
-              <li><Link href="/disclaimer">Disclaimer</Link></li>
+              <li><Link href="/">Home</Link></li>
+              <li><Link href="/blog">Blogs</Link></li>
             </ul>
           </div>
 

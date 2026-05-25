@@ -1,14 +1,18 @@
 'use client';
 
 import React, { useEffect, useState } from 'react';
-import type { BlogProduct } from '@/lib/blogProducts';
-import { getDiscountPercent } from '@/lib/blogProducts';
-import type { Blog } from '@/lib/blogs';
+import type { Blog, Product } from '@/lib/blogs';
+import {
+  getCategoryEmoji,
+  getCategoryLabel,
+  getDiscountPercent,
+  getOriginalPrice,
+} from '@/lib/blogs';
 import './BlogDetail.css';
 
 interface BlogDetailClientProps {
   blog: Blog;
-  products: BlogProduct[];
+  products: Product[];
 }
 
 function formatDate(dateString: string) {
@@ -69,8 +73,8 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
 
       <section className="blog-detail-intro-section">
         <div className="blog-detail-intro-content">
-          <h2>{blog.title}</h2>
-          <p>{blog.excerpt}</p>
+          <h2>{blog.intro?.heading ?? blog.title}</h2>
+          <p>{blog.intro?.paragraph ?? blog.excerpt}</p>
           {blog.content && (
             <div
               className="blog-detail-html-content"
@@ -189,7 +193,7 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
                 {products.map((product) => (
                   <div key={product.id} className="blog-detail-product-list-item">
                     <span className="blog-detail-list-badge">
-                      {product.typeEmoji} {product.type}
+                      {getCategoryEmoji(product.category)} {getCategoryLabel(product.category)}
                     </span>
                     <span className="blog-detail-list-name">{product.title}</span>
                     <span className="blog-detail-list-price">{product.price}</span>
@@ -210,14 +214,23 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
 
       <section className="blog-detail-products-section">
         {products.map((product, index) => {
-          const discount = getDiscountPercent(product.price, product.originalPrice);
+          const originalPrice = getOriginalPrice(product.price, product.isDeal);
+          const discount = getDiscountPercent(product.price, originalPrice);
+          const categoryLabel = getCategoryLabel(product.category);
+          const featureText = product.features?.join('. ');
+          const bestFor = [
+            `🛒 ${categoryLabel}`,
+            '⭐ Top Rated',
+            '💰 Best Value',
+            '✅ Expert Pick',
+          ];
 
           return (
             <div key={product.id} className="blog-detail-product-item">
               <div className="blog-detail-product-header">
                 <div className="blog-detail-product-number">#{index + 1}</div>
                 <div className="blog-detail-type-badge">
-                  {product.typeEmoji} {product.type}
+                  {getCategoryEmoji(product.category)} {categoryLabel}
                 </div>
               </div>
 
@@ -237,16 +250,16 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
                     <span className="blog-detail-stars">{'⭐'.repeat(Math.round(product.rating))}</span>
                     <span className="blog-detail-rating-value">{product.rating}</span>
                     <span className="blog-detail-review-count">
-                      ({product.reviewCount.toLocaleString()} reviews)
+                      ({product.reviewsCount.toLocaleString()} reviews)
                     </span>
                   </div>
 
-                  <p className="blog-detail-product-description">{product.description[0]}</p>
+                  <p className="blog-detail-product-description">{product.description}</p>
 
                   <div className="blog-detail-price-section">
                     <span className="blog-detail-price">{product.price}</span>
                     {discount > 0 && (
-                      <span className="blog-detail-original-price">{product.originalPrice}</span>
+                      <span className="blog-detail-original-price">{originalPrice}</span>
                     )}
                   </div>
 
@@ -263,8 +276,10 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
 
               <div className="blog-detail-why-section">
                 <h3>Why {product.brand}</h3>
-                <p>{product.description[1]}</p>
-                <p className="blog-detail-why-conclusion">{product.description[2]}</p>
+                {featureText && <p>{featureText}</p>}
+                <p className="blog-detail-why-conclusion">
+                  A top pick in our {categoryLabel.toLowerCase()} guide with strong ratings from verified buyers.
+                </p>
               </div>
 
               <div className="blog-detail-pros-cons-grid">
@@ -295,7 +310,7 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
               <div className="blog-detail-best-for-section">
                 <h3>Best For</h3>
                 <div className="blog-detail-best-for-grid">
-                  {product.bestFor.map((category, idx) => (
+                  {bestFor.map((category, idx) => (
                     <div key={idx} className="blog-detail-best-for-card">
                       {category}
                     </div>
@@ -328,7 +343,7 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
                     <td>
                       <strong>{product.title}</strong>
                     </td>
-                    <td>{product.type}</td>
+                    <td>{getCategoryLabel(product.category)}</td>
                     <td className="blog-detail-price-highlight">{product.price}</td>
                     <td>{product.rating} ⭐</td>
                   </tr>
@@ -342,37 +357,12 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
       <section className="blog-detail-faq-section">
         <h2>Frequently Asked Questions</h2>
         <div className="blog-detail-faq-container">
-          <details className="blog-detail-faq-item">
-            <summary>How were these products selected?</summary>
-            <p>
-              We evaluated performance, customer ratings, value for money, and long-term reliability
-              before including each product in this guide.
-            </p>
-          </details>
-
-          <details className="blog-detail-faq-item">
-            <summary>Which option is best for beginners?</summary>
-            <p>
-              Look for products with easy setup, strong reviews, and a lower price point. Our
-              numbered list starts with accessible options.
-            </p>
-          </details>
-
-          <details className="blog-detail-faq-item">
-            <summary>Are these affiliate links?</summary>
-            <p>
-              Yes. We may earn a small commission at no extra cost to you. We only recommend products
-              we believe offer genuine value.
-            </p>
-          </details>
-
-          <details className="blog-detail-faq-item">
-            <summary>How often is this guide updated?</summary>
-            <p>
-              We review and update our buying guides regularly to reflect new models, pricing changes,
-              and updated customer feedback.
-            </p>
-          </details>
+          {(blog.faqs ?? []).map((faq, idx) => (
+            <details key={idx} className="blog-detail-faq-item">
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
         </div>
       </section>
 

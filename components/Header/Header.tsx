@@ -18,11 +18,7 @@ const Header = () => {
 
         <nav className={`${styles.nav} ${isMobileMenuOpen ? styles.navOpen : ''}`}>
           <Link href="/" className={styles.navLink} onClick={() => setIsMobileMenuOpen(false)}>Home</Link>
-          <Link href="/categories" className={styles.navLink} onClick={() => setIsMobileMenuOpen(false)}>Categories</Link>
           <Link href="/blog" className={styles.navLink} onClick={() => setIsMobileMenuOpen(false)}>Blogs</Link>
-          <Link href="/deals" className={styles.navLink} onClick={() => setIsMobileMenuOpen(false)}>Deals</Link>
-          <Link href="/about" className={styles.navLink} onClick={() => setIsMobileMenuOpen(false)}>About</Link>
-          <Link href="/contact" className={styles.navLink} onClick={() => setIsMobileMenuOpen(false)}>Contact</Link>
         </nav>
 
         <div className={styles.actions}>

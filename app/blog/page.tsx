@@ -2,7 +2,6 @@ import React from 'react';
 import { getAllBlogs } from '@/lib/blogs';
 import BlogCard from '@/components/BlogCard/BlogCard';
 
-// In a real app, you would fetch this by slug from an API
 export default function BlogListing() {
   const blogsData = getAllBlogs();
 

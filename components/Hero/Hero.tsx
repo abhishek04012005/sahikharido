@@ -16,11 +16,11 @@ const Hero = () => {
             Expert product reviews, comparisons, and buying guides to help you shop smarter.
           </p>
           <div className={styles.actions}>
-            <Link href="/categories" className={styles.primaryBtn}>
-              Explore Reviews
+            <Link href="/blog" className={styles.primaryBtn}>
+              Read Buying Guides
             </Link>
-            <Link href="/deals" className={styles.secondaryBtn}>
-              Trending Deals
+            <Link href="/blog" className={styles.secondaryBtn}>
+              Latest Blogs
             </Link>
           </div>
         </div>

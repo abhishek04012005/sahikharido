@@ -1,7 +1,6 @@
 import { notFound } from 'next/navigation';
 import BlogDetailClient from '@/components/blog/BlogDetailClient';
-import { getBlogProducts } from '@/lib/blogProducts';
-import { getBlogBySlug } from '@/lib/blogs';
+import { getBlogWithProducts } from '@/lib/blogs';
 
 export const dynamic = 'force-dynamic';
 
@@ -11,9 +10,11 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps) {
   const { slug } = await params;
-  const blog = getBlogBySlug(slug);
+  const data = getBlogWithProducts(slug);
 
-  if (!blog) return { title: 'Not Found' };
+  if (!data) return { title: 'Not Found' };
+
+  const { blog } = data;
 
   return {
     title: blog.seo?.metaTitle ?? `${blog.title} | SahiKharido`,
@@ -23,13 +24,11 @@ export async function generateMetadata({ params }: PageProps) {
 
 export default async function BlogPostPage({ params }: PageProps) {
   const { slug } = await params;
-  const blog = getBlogBySlug(slug);
+  const data = getBlogWithProducts(slug);
 
-  if (!blog) {
+  if (!data) {
     notFound();
   }
 
-  const products = getBlogProducts(blog);
-
-  return <BlogDetailClient blog={blog} products={products} />;
+  return <BlogDetailClient blog={data.blog} products={data.products} />;
 }
