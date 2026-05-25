@@ -1,0 +1,1116 @@
+/* Kitchen Blog - Light Theme CSS */
+
+:root {
+  --primary-color: #ff6b00;
+  --secondary-color: #1f2937;
+  --secondary-light: #f3f4f6;
+  --accent: #ffffff;
+  --text-primary: #111827;
+  --text-secondary: #6b7280;
+  --gold: #f59e0b;
+  --border-color: #e5e7eb;
+  --success: #10b981;
+  --danger: #ef4444;
+}
+
+/* Global Styles */
+.kitchen-blog-container {
+  background: linear-gradient(135deg, #ffffff 0%, #f9fafb 100%);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  color: var(--text-primary);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+/* Scroll Progress Bar */
+.scroll-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--primary-color) 0%, var(--gold) 100%);
+  z-index: 999;
+  transition: width 0.1s ease;
+  box-shadow: 0 2px 8px rgba(255, 107, 0, 0.3);
+}
+
+/* Hero Section */
+.kitchen-hero-section {
+  position: relative;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 20px;
+  background: linear-gradient(135deg, #ffffff 0%, #f9fafb 50%, #f3f4f6 100%);
+  text-align: center;
+  overflow: hidden;
+}
+
+.kitchen-hero-stars {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.kitchen-star {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  background: rgba(255, 107, 0, 0.6);
+  border-radius: 50%;
+  animation: twinkle 3s infinite;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 1; }
+}
+
+.kitchen-hero-title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 2;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--gold) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: -1px;
+  animation: slideInUp 0.8s ease-out;
+}
+
+.kitchen-hero-subtitle {
+  font-size: 1.3rem;
+  color: var(--text-secondary);
+  margin-bottom: 30px;
+  position: relative;
+  z-index: 2;
+  animation: fadeIn 0.8s ease-out 0.2s backwards;
+}
+
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Intro Section */
+.kitchen-intro-section {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Why It Matters Section */
+.kitchen-why-matters-section {
+  padding: 60px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+  background: linear-gradient(135deg, rgba(255, 107, 0, 0.05) 0%, rgba(245, 158, 11, 0.05) 100%);
+  border-radius: 16px;
+  margin-bottom: 60px;
+}
+
+.kitchen-why-matters-content h2 {
+  font-size: 2rem;
+  color: var(--text-primary);
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.kitchen-why-matters-intro {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  text-align: center;
+  margin-bottom: 40px;
+  line-height: 1.8;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.kitchen-importance-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+}
+
+.kitchen-importance-card {
+  background: var(--accent);
+  padding: 30px 25px;
+  border-radius: 12px;
+  text-align: center;
+  border: 2px solid var(--border-color);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.kitchen-importance-card:hover {
+  border-color: var(--primary-color);
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(255, 107, 0, 0.15);
+}
+
+.kitchen-importance-icon {
+  font-size: 2.5rem;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.kitchen-importance-card h3 {
+  color: var(--text-primary);
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.kitchen-importance-card p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* SahiKharido Section */
+.kitchen-sahikharido-section {
+  padding: 60px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+  background: linear-gradient(135deg, var(--accent) 0%, var(--secondary-light) 100%);
+  border-radius: 16px;
+  margin-bottom: 60px;
+  border: 2px solid var(--primary-color);
+  box-shadow: 0 8px 24px rgba(255, 107, 0, 0.1);
+}
+
+.kitchen-sahikharido-wrapper {
+  padding: 20px;
+}
+
+.kitchen-sahikharido-header h2 {
+  font-size: 2.2rem;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--gold) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 15px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.kitchen-sahikharido-header p {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  text-align: center;
+  line-height: 1.8;
+  margin-bottom: 40px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.kitchen-sahikharido-header strong {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+.kitchen-sahikharido-benefits {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.kitchen-benefit-column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.kitchen-benefit-item {
+  background: var(--accent);
+  padding: 20px;
+  border-radius: 12px;
+  border-left: 4px solid var(--primary-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  gap: 15px;
+}
+
+.kitchen-benefit-item:hover {
+  transform: translateX(8px);
+  box-shadow: 0 8px 16px rgba(255, 107, 0, 0.15);
+}
+
+.kitchen-benefit-number {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.kitchen-benefit-item h3 {
+  color: var(--text-primary);
+  font-size: 1.05rem;
+  margin: 0 0 5px 0;
+  font-weight: 700;
+}
+
+.kitchen-benefit-item p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Product Summary */
+.kitchen-product-summary {
+  background: var(--accent);
+  padding: 30px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  border: 2px solid var(--border-color);
+}
+
+.kitchen-product-summary h3 {
+  color: var(--text-primary);
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.kitchen-product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+}
+
+.kitchen-product-list-item {
+  background: linear-gradient(135deg, var(--secondary-light) 0%, var(--accent) 100%);
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.kitchen-product-list-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(255, 107, 0, 0.15);
+  border-color: var(--primary-color);
+}
+
+.kitchen-list-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--gold) 100%);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.kitchen-list-name {
+  color: var(--text-primary);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.kitchen-list-price {
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.kitchen-sahikharido-promise {
+  background: linear-gradient(135deg, rgba(255, 107, 0, 0.08) 0%, rgba(245, 158, 11, 0.08) 100%);
+  padding: 25px;
+  border-radius: 12px;
+  border-left: 4px solid var(--primary-color);
+}
+
+.kitchen-sahikharido-promise p {
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.8;
+  margin: 0;
+  text-align: center;
+}
+
+.kitchen-intro-section h2 {
+  font-size: 2.2rem;
+  color: var(--text-primary);
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.kitchen-intro-section p {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  margin-bottom: 40px;
+  line-height: 1.8;
+}
+
+.kitchen-quick-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.kitchen-fact {
+  background: var(--accent);
+  padding: 25px 20px;
+  border-radius: 12px;
+  border-left: 4px solid var(--primary-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.kitchen-fact:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  border-left-color: var(--gold);
+}
+
+.kitchen-fact-icon {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.kitchen-fact h3 {
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.kitchen-fact p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* Products Section */
+.kitchen-products-section {
+  padding: 60px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.kitchen-product-item {
+  margin-bottom: 70px;
+  animation: slideInUp 0.6s ease-out;
+}
+
+.kitchen-product-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+.kitchen-product-number {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  background: linear-gradient(135deg, rgba(255, 107, 0, 0.1) 0%, rgba(245, 158, 11, 0.1) 100%);
+  padding: 10px 20px;
+  border-radius: 50px;
+  border: 2px solid var(--primary-color);
+}
+
+.kitchen-type-badge {
+  display: inline-block;
+  padding: 8px 16px;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--gold) 100%);
+  color: white;
+  border-radius: 50px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(255, 107, 0, 0.25);
+}
+
+.kitchen-product-card {
+  background: var(--accent);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  padding: 30px;
+  margin-bottom: 30px;
+  border: 1px solid var(--border-color);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.kitchen-product-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+}
+
+.kitchen-product-image-wrapper {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--secondary-light);
+  height: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kitchen-product-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.kitchen-product-card:hover .kitchen-product-image {
+  transform: scale(1.05);
+}
+
+.kitchen-discount-badge {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--gold) 100%);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  box-shadow: 0 4px 12px rgba(255, 107, 0, 0.3);
+}
+
+.kitchen-product-info h3 {
+  font-size: 1.4rem;
+  color: var(--text-primary);
+  margin: 0 0 5px 0;
+  font-weight: 700;
+}
+
+.kitchen-product-brand {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin: 0 0 15px 0;
+  font-weight: 500;
+}
+
+.kitchen-rating {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 15px;
+}
+
+.kitchen-stars {
+  font-size: 0.9rem;
+}
+
+.kitchen-rating-value {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.kitchen-review-count {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+}
+
+.kitchen-product-description {
+  color: var(--text-secondary);
+  line-height: 1.7;
+  margin-bottom: 20px;
+}
+
+.kitchen-price-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.kitchen-price {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+.kitchen-original-price {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  text-decoration: line-through;
+}
+
+.kitchen-cta-button {
+  display: inline-block;
+  padding: 12px 30px;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--gold) 100%);
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 600;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 12px rgba(255, 107, 0, 0.3);
+}
+
+.kitchen-cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 107, 0, 0.4);
+}
+
+/* Why This Product Section */
+.kitchen-why-section {
+  background: linear-gradient(135deg, rgba(255, 107, 0, 0.05) 0%, rgba(245, 158, 11, 0.05) 100%);
+  padding: 25px;
+  border-radius: 12px;
+  border-left: 4px solid var(--primary-color);
+  margin-bottom: 25px;
+}
+
+.kitchen-why-section h3 {
+  color: var(--primary-color);
+  font-size: 1.2rem;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.kitchen-why-section p {
+  color: var(--text-secondary);
+  line-height: 1.7;
+  margin-bottom: 12px;
+}
+
+.kitchen-why-section p:last-child {
+  margin-bottom: 0;
+}
+
+.kitchen-why-conclusion {
+  color: var(--text-primary);
+  font-weight: 500;
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid rgba(255, 107, 0, 0.2);
+}
+
+/* Pros & Cons Section */
+.kitchen-pros-cons-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.kitchen-pros-card,
+.kitchen-cons-card {
+  background: var(--accent);
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.kitchen-pros-card h4,
+.kitchen-cons-card h4 {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.kitchen-pros-card h4 {
+  color: var(--success);
+}
+
+.kitchen-cons-card h4 {
+  color: var(--danger);
+}
+
+.kitchen-pros-card ul,
+.kitchen-cons-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.kitchen-pros-card li,
+.kitchen-cons-card li {
+  padding: 8px 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.kitchen-pros-card li:last-child,
+.kitchen-cons-card li:last-child {
+  border-bottom: none;
+}
+
+.kitchen-pro-icon {
+  color: var(--success);
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.kitchen-con-icon {
+  color: var(--danger);
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+/* Best For Section */
+.kitchen-best-for-section {
+  margin-bottom: 30px;
+}
+
+.kitchen-best-for-section h3 {
+  color: var(--text-primary);
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.kitchen-best-for-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+}
+
+.kitchen-best-for-card {
+  background: linear-gradient(135deg, rgba(255, 107, 0, 0.1) 0%, rgba(245, 158, 11, 0.1) 100%);
+  border: 2px solid var(--primary-color);
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 600;
+  color: var(--text-primary);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+
+.kitchen-best-for-card:hover {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--gold) 100%);
+  color: white;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 16px rgba(255, 107, 0, 0.25);
+}
+
+/* Product Divider */
+.kitchen-product-divider {
+  height: 2px;
+  background: linear-gradient(90deg, transparent 0%, var(--border-color) 50%, transparent 100%);
+  margin: 50px 0;
+}
+
+/* Comparison Section */
+.kitchen-comparison-section {
+  padding: 60px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.kitchen-comparison-section h2 {
+  font-size: 2rem;
+  color: var(--text-primary);
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.kitchen-comparison-table {
+  background: var(--accent);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--border-color);
+}
+
+.kitchen-comparison-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.kitchen-comparison-table thead {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--gold) 100%);
+  color: white;
+}
+
+.kitchen-comparison-table th {
+  padding: 16px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.kitchen-comparison-table tbody tr {
+  border-bottom: 1px solid var(--border-color);
+}
+
+.kitchen-comparison-table tbody tr:hover {
+  background: var(--secondary-light);
+}
+
+.kitchen-comparison-table td {
+  padding: 16px;
+  color: var(--text-secondary);
+}
+
+.kitchen-comparison-table strong {
+  color: var(--text-primary);
+}
+
+.kitchen-price-highlight {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* FAQ Section */
+.kitchen-faq-section {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.kitchen-faq-section h2 {
+  font-size: 2rem;
+  color: var(--text-primary);
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.kitchen-faq-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.kitchen-faq-item {
+  background: var(--accent);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.kitchen-faq-item:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.kitchen-faq-item[open] {
+  background: linear-gradient(135deg, rgba(255, 107, 0, 0.05) 0%, rgba(245, 158, 11, 0.05) 100%);
+  border-color: var(--primary-color);
+  box-shadow: 0 4px 12px rgba(255, 107, 0, 0.1);
+}
+
+.kitchen-faq-item summary {
+  padding: 20px;
+  font-weight: 600;
+  color: var(--text-primary);
+  list-style: none;
+  user-select: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.kitchen-faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.kitchen-faq-item[open] summary {
+  color: var(--primary-color);
+}
+
+.kitchen-faq-item summary::after {
+  content: '▼';
+  color: var(--primary-color);
+  font-size: 0.8rem;
+  transition: transform 0.3s ease;
+}
+
+.kitchen-faq-item[open] summary::after {
+  transform: rotate(180deg);
+}
+
+.kitchen-faq-item p {
+  padding: 0 20px 20px 20px;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  margin: 0;
+  border-top: 1px solid var(--border-color);
+}
+
+/* Conclusion Section */
+.kitchen-conclusion-section {
+  padding: 60px 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.kitchen-conclusion-section h2 {
+  font-size: 2rem;
+  color: var(--text-primary);
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.kitchen-conclusion-content p {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  text-align: center;
+  margin-bottom: 30px;
+  line-height: 1.8;
+}
+
+.kitchen-conclusion-boxes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+.kitchen-conclusion-box {
+  padding: 30px;
+  border-radius: 12px;
+  border-left: 4px solid var(--border-color);
+}
+
+.kitchen-choose-airfryer {
+  background: linear-gradient(135deg, rgba(255, 107, 0, 0.08) 0%, rgba(245, 158, 11, 0.08) 100%);
+  border-left-color: var(--primary-color);
+}
+
+.kitchen-choose-convection {
+  background: linear-gradient(135deg, rgba(17, 184, 207, 0.08) 0%, rgba(34, 197, 230, 0.08) 100%);
+  border-left-color: #06b6d4;
+}
+
+.kitchen-conclusion-box h3 {
+  color: var(--text-primary);
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.kitchen-conclusion-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.kitchen-conclusion-box li {
+  padding: 10px 0;
+  color: var(--text-secondary);
+  padding-left: 25px;
+  position: relative;
+}
+
+.kitchen-choose-airfryer li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+.kitchen-choose-convection li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #06b6d4;
+  font-weight: 700;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .kitchen-hero-title {
+    font-size: 2.2rem;
+  }
+
+  .kitchen-hero-subtitle {
+    font-size: 1.1rem;
+  }
+
+  .kitchen-quick-facts {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-importance-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-sahikharido-benefits {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .kitchen-product-list {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  .kitchen-product-card {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .kitchen-product-image-wrapper {
+    height: 250px;
+  }
+
+  .kitchen-pros-cons-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-best-for-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .kitchen-conclusion-boxes {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-comparison-table {
+    overflow-x: auto;
+  }
+
+  .kitchen-intro-section h2 {
+    font-size: 1.8rem;
+  }
+
+  .kitchen-why-matters-section {
+    padding: 40px 20px;
+  }
+
+  .kitchen-why-matters-content h2 {
+    font-size: 1.6rem;
+  }
+
+  .kitchen-sahikharido-section {
+    padding: 40px 20px;
+  }
+
+  .kitchen-sahikharido-header h2 {
+    font-size: 1.8rem;
+  }
+
+  .kitchen-comparison-section h2,
+  .kitchen-faq-section h2,
+  .kitchen-conclusion-section h2 {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .kitchen-hero-title {
+    font-size: 1.8rem;
+  }
+
+  .kitchen-hero-section {
+    padding: 40px 15px;
+    min-height: 60vh;
+  }
+
+  .kitchen-products-section,
+  .kitchen-comparison-section,
+  .kitchen-faq-section,
+  .kitchen-conclusion-section,
+  .kitchen-intro-section,
+  .kitchen-why-matters-section,
+  .kitchen-sahikharido-section {
+    padding: 40px 15px;
+  }
+
+  .kitchen-product-number {
+    font-size: 1.5rem;
+    padding: 8px 15px;
+  }
+
+  .kitchen-type-badge {
+    font-size: 0.85rem;
+    padding: 6px 12px;
+  }
+
+  .kitchen-product-info h3 {
+    font-size: 1.2rem;
+  }
+
+  .kitchen-best-for-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-product-list {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-sahikharido-benefits {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-benefit-item {
+    flex-direction: column;
+  }
+
+  .kitchen-why-matters-content h2 {
+    font-size: 1.4rem;
+  }
+
+  .kitchen-sahikharido-header h2 {
+    font-size: 1.4rem;
+  }
+
+  .kitchen-importance-grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--secondary-light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary-color);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold);
+}

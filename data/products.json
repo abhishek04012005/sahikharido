@@ -152,5 +152,143 @@
     "isTrending": false,
     "isDeal": true,
     "brand": "Keychron"
+  },
+  {
+    "id": "prod-8",
+    "title": "Philips Premium Air Fryer",
+    "slug": "philips-premium-air-fryer",
+    "price": "$199.99",
+    "rating": 4.8,
+    "reviewsCount": 28500,
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=600&auto=format&fit=crop",
+    "description": "Advanced air fryer with dual temperature zones and smart cooking presets.",
+    "features": [
+      "6.2L Capacity",
+      "Dual Temperature Zones",
+      "Smart Cooking Technology",
+      "Timer Function"
+    ],
+    "pros": ["Even cooking results", "Large capacity", "Quick preheat", "Efficient energy use"],
+    "cons": ["Higher price point", "Takes counter space"],
+    "affiliateLink": "#",
+    "category": "kitchen",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Philips"
+  },
+  {
+    "id": "prod-9",
+    "title": "Cuisinart Convection Oven",
+    "slug": "cuisinart-convection-oven",
+    "price": "$299.99",
+    "rating": 4.7,
+    "reviewsCount": 19200,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=600&auto=format&fit=crop",
+    "description": "Stainless steel convection oven with rotisserie and baking capabilities.",
+    "features": [
+      "0.6 cu ft Capacity",
+      "Convection Heating",
+      "Rotisserie Spit",
+      "Multiple Cooking Modes"
+    ],
+    "pros": ["Versatile cooking", "Large interior", "Professional results", "Even temperature"],
+    "cons": ["Heavy", "Takes up more space than air fryers"],
+    "affiliateLink": "#",
+    "category": "kitchen",
+    "isTrending": false,
+    "isDeal": false,
+    "brand": "Cuisinart"
+  },
+  {
+    "id": "prod-10",
+    "title": "COSORI Dual Blades Air Fryer",
+    "slug": "cosori-dual-blades-air-fryer",
+    "price": "$149.99",
+    "rating": 4.9,
+    "reviewsCount": 34600,
+    "image": "https://images.unsplash.com/photo-1578519691186-d6fd8c4ca9eb?q=80&w=600&auto=format&fit=crop",
+    "description": "Compact air fryer with dual fan technology for crispy results in minutes.",
+    "features": [
+      "5.8L Capacity",
+      "Dual Fan Technology",
+      "11 Preset Modes",
+      "Fast Heating"
+    ],
+    "pros": ["Crispy results", "Affordable", "Compact design", "Easy cleanup"],
+    "cons": ["Smaller capacity", "Shorter cord"],
+    "affiliateLink": "#",
+    "category": "kitchen",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "COSORI"
+  },
+  {
+    "id": "prod-11",
+    "title": "Breville Smart Convection Oven",
+    "slug": "breville-smart-convection-oven",
+    "price": "$399.99",
+    "rating": 4.8,
+    "reviewsCount": 12800,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=600&auto=format&fit=crop",
+    "description": "Premium smart convection oven with WiFi connectivity and touch controls.",
+    "features": [
+      "1.1 cu ft Capacity",
+      "WiFi Smart Controls",
+      "13 Cooking Functions",
+      "Stainless Steel"
+    ],
+    "pros": ["Smart connectivity", "Multiple cooking functions", "Premium build", "Precise temperature control"],
+    "cons": ["Premium pricing", "Requires WiFi setup"],
+    "affiliateLink": "#",
+    "category": "kitchen",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Breville"
+  },
+  {
+    "id": "prod-12",
+    "title": "Instant Pot Duo Plus Air Fryer",
+    "slug": "instant-pot-duo-plus-air-fryer",
+    "price": "$179.99",
+    "rating": 4.6,
+    "reviewsCount": 22100,
+    "image": "https://images.unsplash.com/photo-1513828583688-c52646db42da?q=80&w=600&auto=format&fit=crop",
+    "description": "Hybrid cooking with pressure cooking, air frying, and steaming capabilities.",
+    "features": [
+      "8-quart Capacity",
+      "10-in-1 Functions",
+      "Multi-use Cooking",
+      "Digital Display"
+    ],
+    "pros": ["Multiple cooking methods", "Large capacity", "Great value", "Fast cooking"],
+    "cons": ["Steeper learning curve", "Takes counter space"],
+    "affiliateLink": "#",
+    "category": "kitchen",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Instant Pot"
+  },
+  {
+    "id": "prod-13",
+    "title": "Black+Decker Air Fryer Oven",
+    "slug": "blackdecker-air-fryer-oven",
+    "price": "$129.99",
+    "rating": 4.5,
+    "reviewsCount": 16700,
+    "image": "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?q=80&w=600&auto=format&fit=crop",
+    "description": "Compact 2-in-1 air fryer and toaster oven combo for versatile cooking.",
+    "features": [
+      "2-in-1 Design",
+      "6-slice Capacity",
+      "Rapid Air Technology",
+      "9 Cooking Presets"
+    ],
+    "pros": ["Space-saving 2-in-1", "Budget-friendly", "Quick heating", "Versatile"],
+    "cons": ["Smaller capacity", "Basic features"],
+    "affiliateLink": "#",
+    "category": "kitchen",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Black+Decker"
   }
 ]
