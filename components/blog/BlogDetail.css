@@ -512,6 +512,18 @@
   box-shadow: 0 4px 12px rgba(255, 107, 0, 0.25);
 }
 
+.blog-detail-zodiac-badge {
+  display: inline-block;
+  padding: 8px 14px;
+  background: linear-gradient(135deg, rgba(139, 92, 246, 0.9) 0%, rgba(168, 85, 247, 0.9) 100%);
+  color: white;
+  border-radius: 50px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
 .blog-detail-product-card {
   background: var(--accent);
   border-radius: 16px;
@@ -675,6 +687,37 @@
   margin-top: 15px;
   padding-top: 15px;
   border-top: 1px solid rgba(255, 107, 0, 0.2);
+}
+
+/* Zodiac Section */
+.blog-detail-zodiac-section {
+  background: linear-gradient(135deg, rgba(139, 92, 246, 0.08) 0%, rgba(168, 85, 247, 0.08) 100%);
+  padding: 25px;
+  border-radius: 12px;
+  border-left: 4px solid #8b5cf6;
+  margin-bottom: 25px;
+}
+
+.blog-detail-zodiac-section h3 {
+  color: #7c3aed;
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+
+.blog-detail-zodiac-dates {
+  color: #a78bfa;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+  margin-top: 0;
+}
+
+.blog-detail-zodiac-description {
+  color: var(--text-secondary);
+  line-height: 1.7;
+  margin-bottom: 0;
+  font-style: italic;
 }
 
 /* Pros & Cons Section */

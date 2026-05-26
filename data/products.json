@@ -13,8 +13,15 @@
       "Up to 30-hour battery life",
       "Ultra-comfortable, lightweight design"
     ],
-    "pros": ["Best-in-class ANC", "Excellent sound quality", "Comfortable fit"],
-    "cons": ["Expensive", "Not water-resistant"],
+    "pros": [
+      "Best-in-class ANC",
+      "Excellent sound quality",
+      "Comfortable fit"
+    ],
+    "cons": [
+      "Expensive",
+      "Not water-resistant"
+    ],
     "affiliateLink": "#",
     "category": "electronics",
     "isTrending": true,
@@ -35,8 +42,15 @@
       "Up to 18 hours of battery life",
       "18GB Unified Memory"
     ],
-    "pros": ["Incredible performance", "Stunning display", "Great battery life"],
-    "cons": ["High price tag", "Heavy"],
+    "pros": [
+      "Incredible performance",
+      "Stunning display",
+      "Great battery life"
+    ],
+    "cons": [
+      "High price tag",
+      "Heavy"
+    ],
     "affiliateLink": "#",
     "category": "electronics",
     "isTrending": true,
@@ -57,13 +71,25 @@
       "Wide Temperature Range",
       "Dishwasher Safe Parts"
     ],
-    "pros": ["Easy to use", "Versatile cooking options", "Easy to clean"],
-    "cons": ["Small capacity for large families"],
+    "pros": [
+      "Easy to use",
+      "Versatile cooking options",
+      "Easy to clean"
+    ],
+    "cons": [
+      "Small capacity for large families"
+    ],
     "affiliateLink": "#",
     "category": "kitchen",
     "isTrending": false,
     "isDeal": true,
-    "brand": "Ninja"
+    "brand": "Ninja",
+    "zodiac": {
+      "sign": "Aries",
+      "symbol": "♈",
+      "dates": "March 21 - April 19",
+      "description": "Bold, energetic, and action-oriented. This is the perfect entry point for those ready to take charge of their kitchen."
+    }
   },
   {
     "id": "prod-4",
@@ -79,8 +105,14 @@
       "Heart Rate on Equipment",
       "7-Day Battery Life"
     ],
-    "pros": ["Accurate tracking", "Google integration", "Sleek design"],
-    "cons": ["Premium subscription required for some features"],
+    "pros": [
+      "Accurate tracking",
+      "Google integration",
+      "Sleek design"
+    ],
+    "cons": [
+      "Premium subscription required for some features"
+    ],
     "affiliateLink": "#",
     "category": "fitness",
     "isTrending": true,
@@ -101,8 +133,15 @@
       "Intel Core i7 Processor",
       "16GB RAM & 512GB SSD"
     ],
-    "pros": ["Ultra-portable", "Excellent build quality", "Vivid display"],
-    "cons": ["No ports", "Expensive"],
+    "pros": [
+      "Ultra-portable",
+      "Excellent build quality",
+      "Vivid display"
+    ],
+    "cons": [
+      "No ports",
+      "Expensive"
+    ],
     "affiliateLink": "#",
     "category": "electronics",
     "isTrending": true,
@@ -123,8 +162,15 @@
       "3440x1440 Resolution",
       "USB-C with Power Delivery"
     ],
-    "pros": ["Massive screen real estate", "Great for multitasking", "USB-C connectivity"],
-    "cons": ["Takes up desk space", "Expensive"],
+    "pros": [
+      "Massive screen real estate",
+      "Great for multitasking",
+      "USB-C connectivity"
+    ],
+    "cons": [
+      "Takes up desk space",
+      "Expensive"
+    ],
     "affiliateLink": "#",
     "category": "electronics",
     "isTrending": true,
@@ -145,8 +191,15 @@
       "Wireless & Wired modes",
       "RGB Backlight"
     ],
-    "pros": ["Great typing experience", "Affordable", "Wireless connectivity"],
-    "cons": ["No dedicated numpad", "Plastic case"],
+    "pros": [
+      "Great typing experience",
+      "Affordable",
+      "Wireless connectivity"
+    ],
+    "cons": [
+      "No dedicated numpad",
+      "Plastic case"
+    ],
     "affiliateLink": "#",
     "category": "electronics",
     "isTrending": false,
@@ -168,8 +221,16 @@
       "Smart Cooking Technology",
       "Timer Function"
     ],
-    "pros": ["Even cooking results", "Large capacity", "Quick preheat", "Efficient energy use"],
-    "cons": ["Higher price point", "Takes counter space"],
+    "pros": [
+      "Even cooking results",
+      "Large capacity",
+      "Quick preheat",
+      "Efficient energy use"
+    ],
+    "cons": [
+      "Higher price point",
+      "Takes counter space"
+    ],
     "affiliateLink": "#",
     "category": "kitchen",
     "isTrending": true,
@@ -191,13 +252,27 @@
       "Rotisserie Spit",
       "Multiple Cooking Modes"
     ],
-    "pros": ["Versatile cooking", "Large interior", "Professional results", "Even temperature"],
-    "cons": ["Heavy", "Takes up more space than air fryers"],
+    "pros": [
+      "Versatile cooking",
+      "Large interior",
+      "Professional results",
+      "Even temperature"
+    ],
+    "cons": [
+      "Heavy",
+      "Takes up more space than air fryers"
+    ],
     "affiliateLink": "#",
     "category": "kitchen",
     "isTrending": false,
     "isDeal": false,
-    "brand": "Cuisinart"
+    "brand": "Cuisinart",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Versatile, adaptable, and multi-talented. This convection oven does everything—baking, roasting, rotisserie cooking—with ease."
+    }
   },
   {
     "id": "prod-10",
@@ -214,13 +289,27 @@
       "11 Preset Modes",
       "Fast Heating"
     ],
-    "pros": ["Crispy results", "Affordable", "Compact design", "Easy cleanup"],
-    "cons": ["Smaller capacity", "Shorter cord"],
+    "pros": [
+      "Crispy results",
+      "Affordable",
+      "Compact design",
+      "Easy cleanup"
+    ],
+    "cons": [
+      "Smaller capacity",
+      "Shorter cord"
+    ],
     "affiliateLink": "#",
     "category": "kitchen",
     "isTrending": true,
     "isDeal": true,
-    "brand": "COSORI"
+    "brand": "COSORI",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Home and family-focused, nurturing every meal. This compact air fryer is perfect for creating delicious memories with loved ones."
+    }
   },
   {
     "id": "prod-11",
@@ -237,13 +326,27 @@
       "13 Cooking Functions",
       "Stainless Steel"
     ],
-    "pros": ["Smart connectivity", "Multiple cooking functions", "Premium build", "Precise temperature control"],
-    "cons": ["Premium pricing", "Requires WiFi setup"],
+    "pros": [
+      "Smart connectivity",
+      "Multiple cooking functions",
+      "Premium build",
+      "Precise temperature control"
+    ],
+    "cons": [
+      "Premium pricing",
+      "Requires WiFi setup"
+    ],
     "affiliateLink": "#",
     "category": "kitchen",
     "isTrending": true,
     "isDeal": false,
-    "brand": "Breville"
+    "brand": "Breville",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Premium, luxurious, and smart. This intelligent convection oven puts you in control with app connectivity and cutting-edge technology."
+    }
   },
   {
     "id": "prod-12",
@@ -260,13 +363,27 @@
       "Multi-use Cooking",
       "Digital Display"
     ],
-    "pros": ["Multiple cooking methods", "Large capacity", "Great value", "Fast cooking"],
-    "cons": ["Steeper learning curve", "Takes counter space"],
+    "pros": [
+      "Multiple cooking methods",
+      "Large capacity",
+      "Great value",
+      "Fast cooking"
+    ],
+    "cons": [
+      "Steeper learning curve",
+      "Takes counter space"
+    ],
     "affiliateLink": "#",
     "category": "kitchen",
     "isTrending": true,
     "isDeal": true,
-    "brand": "Instant Pot"
+    "brand": "Instant Pot",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Practical, efficient, and multi-purpose. This all-in-one workhorse solves every cooking problem with smart, organized functionality."
+    }
   },
   {
     "id": "prod-13",
@@ -283,12 +400,1839 @@
       "Rapid Air Technology",
       "9 Cooking Presets"
     ],
-    "pros": ["Space-saving 2-in-1", "Budget-friendly", "Quick heating", "Versatile"],
-    "cons": ["Smaller capacity", "Basic features"],
+    "pros": [
+      "Space-saving 2-in-1",
+      "Budget-friendly",
+      "Quick heating",
+      "Versatile"
+    ],
+    "cons": [
+      "Smaller capacity",
+      "Basic features"
+    ],
     "affiliateLink": "#",
     "category": "kitchen",
     "isTrending": false,
     "isDeal": true,
-    "brand": "Black+Decker"
+    "brand": "Black+Decker",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Balanced, fair, and perfect for everyone. This 2-in-1 hybrid offers the ideal equilibrium of price, features, and space-saving design."
+    }
+  },
+  {
+    "id": "prod-14",
+    "title": "Customized Spotify Photo Frame",
+    "slug": "customized-spotify-photo-frame",
+    "price": "$24.99",
+    "rating": 4.8,
+    "reviewsCount": 12400,
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=600&auto=format&fit=crop",
+    "description": "A personalized acrylic Spotify plaque with your favorite song and photo for a romantic memory.",
+    "features": [
+      "Custom Photo Upload",
+      "Spotify Song Design",
+      "Premium Acrylic Material",
+      "LED Light Option"
+    ],
+    "pros": [
+      "Highly personalized",
+      "Romantic gift",
+      "Affordable",
+      "Great room decor"
+    ],
+    "cons": [
+      "Fragile material",
+      "Limited customization options"
+    ],
+    "affiliateLink": "#",
+    "category": "gifts",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "GiftAura",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Emotional and sentimental, Cancer loves gifts filled with memories and feelings."
+    }
+  },
+  {
+    "id": "prod-15",
+    "title": "Fossil Women's Elegant Watch",
+    "slug": "fossil-womens-elegant-watch",
+    "price": "$119.99",
+    "rating": 4.7,
+    "reviewsCount": 8900,
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?q=80&w=600&auto=format&fit=crop",
+    "description": "A stylish and premium watch designed for modern women who love timeless fashion.",
+    "features": [
+      "Premium Stainless Steel",
+      "Water Resistant",
+      "Elegant Design",
+      "Quartz Movement"
+    ],
+    "pros": [
+      "Luxury feel",
+      "Long-lasting build",
+      "Stylish design",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Premium pricing",
+      "Limited smart features"
+    ],
+    "affiliateLink": "#",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Fossil",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos love luxury, confidence, and stylish accessories."
+    }
+  },
+  {
+    "id": "prod-16",
+    "title": "Apple Watch SE",
+    "slug": "apple-watch-se",
+    "price": "$249.99",
+    "rating": 4.9,
+    "reviewsCount": 45200,
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=600&auto=format&fit=crop",
+    "description": "A premium smartwatch with fitness tracking, notifications, and elegant design.",
+    "features": [
+      "Fitness Tracking",
+      "Heart Rate Monitor",
+      "Retina Display",
+      "Water Resistant"
+    ],
+    "pros": [
+      "Premium experience",
+      "Health features",
+      "Stylish design",
+      "Excellent ecosystem"
+    ],
+    "cons": [
+      "Expensive",
+      "Battery life could improve"
+    ],
+    "affiliateLink": "#",
+    "category": "gadgets",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Apple",
+    "zodiac": {
+      "sign": "Aquarius",
+      "symbol": "♒",
+      "dates": "January 20 - February 18",
+      "description": "Aquarius loves futuristic gadgets and smart technology."
+    }
+  },
+  {
+    "id": "prod-17",
+    "title": "Nykaa Luxury Skincare Gift Box",
+    "slug": "nykaa-luxury-skincare-gift-box",
+    "price": "$49.99",
+    "rating": 4.6,
+    "reviewsCount": 7600,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=600&auto=format&fit=crop",
+    "description": "A premium skincare combo with essential beauty and self-care products.",
+    "features": [
+      "Complete Skincare Kit",
+      "Premium Packaging",
+      "Suitable for All Skin Types",
+      "Travel Friendly"
+    ],
+    "pros": [
+      "Great for self-care",
+      "Beautiful packaging",
+      "Useful products",
+      "Affordable luxury"
+    ],
+    "cons": [
+      "May not suit sensitive skin",
+      "Limited quantity"
+    ],
+    "affiliateLink": "#",
+    "category": "beauty",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Nykaa",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate self-care, cleanliness, and practical luxury."
+    }
+  },
+  {
+    "id": "prod-18",
+    "title": "Couple Memory Scrapbook",
+    "slug": "couple-memory-scrapbook",
+    "price": "$18.99",
+    "rating": 4.7,
+    "reviewsCount": 5300,
+    "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=600&auto=format&fit=crop",
+    "description": "A handmade scrapbook designed to preserve beautiful relationship memories.",
+    "features": [
+      "DIY Design",
+      "Premium Paper Quality",
+      "Creative Layouts",
+      "Perfect for Photos and Notes"
+    ],
+    "pros": [
+      "Very emotional gift",
+      "Budget-friendly",
+      "Creative",
+      "Memorable"
+    ],
+    "cons": [
+      "Requires effort",
+      "Time-consuming setup"
+    ],
+    "affiliateLink": "#",
+    "category": "gifts",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "LoveCraft",
+    "zodiac": {
+      "sign": "Pisces",
+      "symbol": "♓",
+      "dates": "February 19 - March 20",
+      "description": "Pisces value emotional and heartfelt gifts deeply."
+    }
+  },
+  {
+    "id": "prod-19",
+    "title": "Michael Kors Designer Handbag",
+    "slug": "michael-kors-designer-handbag",
+    "price": "$179.99",
+    "rating": 4.8,
+    "reviewsCount": 9800,
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=600&auto=format&fit=crop",
+    "description": "A premium designer handbag that combines elegance with everyday practicality.",
+    "features": [
+      "Luxury Leather Finish",
+      "Spacious Compartments",
+      "Stylish Design",
+      "Premium Brand"
+    ],
+    "pros": [
+      "Luxury appeal",
+      "High-quality material",
+      "Fashionable",
+      "Durable"
+    ],
+    "cons": [
+      "Expensive",
+      "Limited casual usage"
+    ],
+    "affiliateLink": "#",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Michael Kors",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus enjoys comfort, beauty, and luxurious lifestyle accessories."
+    }
+  },
+  {
+    "id": "prod-20",
+    "title": "JBL Wireless Bluetooth Speaker",
+    "slug": "jbl-wireless-bluetooth-speaker",
+    "price": "$79.99",
+    "rating": 4.7,
+    "reviewsCount": 21400,
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?q=80&w=600&auto=format&fit=crop",
+    "description": "Portable Bluetooth speaker with powerful sound quality and long battery life.",
+    "features": [
+      "Wireless Bluetooth Connectivity",
+      "Portable Design",
+      "Long Battery Backup",
+      "Deep Bass Sound"
+    ],
+    "pros": [
+      "Excellent sound quality",
+      "Portable",
+      "Long battery life",
+      "Stylish"
+    ],
+    "cons": [
+      "Bass may overpower vocals",
+      "No smart assistant"
+    ],
+    "affiliateLink": "#",
+    "category": "gadgets",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "JBL",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Geminis are energetic and social, making music gadgets a perfect choice."
+    }
+  },
+  {
+    "id": "prod-21",
+    "title": "Amethyst Healing Crystal Set",
+    "slug": "amethyst-healing-crystal-set",
+    "price": "$29.99",
+    "rating": 4.8,
+    "reviewsCount": 11200,
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=600&auto=format&fit=crop",
+    "description": "A premium crystal set designed for meditation, positivity, and spiritual healing.",
+    "features": [
+      "Natural Amethyst Stones",
+      "Meditation Friendly",
+      "Premium Storage Box",
+      "Energy Cleansing Guide"
+    ],
+    "pros": [
+      "Beautiful appearance",
+      "Great for meditation",
+      "Positive energy feel",
+      "Gift-ready packaging"
+    ],
+    "cons": [
+      "Fragile stones",
+      "Requires proper care"
+    ],
+    "affiliateLink": "#",
+    "category": "spirituality",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "CrystalAura",
+    "zodiac": {
+      "sign": "Pisces",
+      "symbol": "♓",
+      "dates": "February 19 - March 20",
+      "description": "Pisces are deeply intuitive and emotionally connected, making healing crystals a perfect spiritual companion."
+    }
+  },
+  {
+    "id": "prod-22",
+    "title": "Meditation Singing Bowl Kit",
+    "slug": "meditation-singing-bowl-kit",
+    "price": "$39.99",
+    "rating": 4.7,
+    "reviewsCount": 8700,
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?q=80&w=600&auto=format&fit=crop",
+    "description": "Traditional Tibetan singing bowl set for meditation, yoga, and mindfulness practices.",
+    "features": [
+      "Handcrafted Bowl",
+      "Wooden Mallet Included",
+      "Meditation Sound Therapy",
+      "Compact Portable Design"
+    ],
+    "pros": [
+      "Relaxing sound",
+      "Easy to use",
+      "Premium craftsmanship",
+      "Great for yoga"
+    ],
+    "cons": [
+      "Small bowl size",
+      "Requires practice"
+    ],
+    "affiliateLink": "#",
+    "category": "spirituality",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "ZenSoul",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Libra values peace, harmony, and balance, making meditation sound therapy ideal for them."
+    }
+  },
+  {
+    "id": "prod-23",
+    "title": "Essential Oil Aroma Diffuser",
+    "slug": "essential-oil-aroma-diffuser",
+    "price": "$34.99",
+    "rating": 4.6,
+    "reviewsCount": 19400,
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=600&auto=format&fit=crop",
+    "description": "Ultrasonic aroma diffuser with calming LED lights and essential oil compatibility.",
+    "features": [
+      "Ultrasonic Technology",
+      "LED Mood Lighting",
+      "Silent Operation",
+      "Auto Shut-Off"
+    ],
+    "pros": [
+      "Relaxing atmosphere",
+      "Stylish design",
+      "Quiet operation",
+      "Easy setup"
+    ],
+    "cons": [
+      "Small water tank",
+      "Needs regular cleaning"
+    ],
+    "affiliateLink": "#",
+    "category": "wellness",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "AromaZen",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Cancer loves peaceful home environments and emotionally comforting spaces."
+    }
+  },
+  {
+    "id": "prod-24",
+    "title": "Guided Gratitude Journal",
+    "slug": "guided-gratitude-journal",
+    "price": "$18.99",
+    "rating": 4.9,
+    "reviewsCount": 6800,
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?q=80&w=600&auto=format&fit=crop",
+    "description": "A mindfulness journal designed to encourage positivity, gratitude, and self-reflection.",
+    "features": [
+      "Daily Gratitude Prompts",
+      "Premium Hardcover",
+      "Mindfulness Exercises",
+      "Minimal Aesthetic Design"
+    ],
+    "pros": [
+      "Improves mindfulness",
+      "Beautiful design",
+      "Easy habit building",
+      "Portable"
+    ],
+    "cons": [
+      "Limited pages",
+      "Requires consistency"
+    ],
+    "affiliateLink": "#",
+    "category": "wellness",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "MindfulPages",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate organization, self-improvement, and thoughtful routines."
+    }
+  },
+  {
+    "id": "prod-25",
+    "title": "Tarot Card Starter Deck",
+    "slug": "tarot-card-starter-deck",
+    "price": "$22.99",
+    "rating": 4.7,
+    "reviewsCount": 9400,
+    "image": "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?q=80&w=600&auto=format&fit=crop",
+    "description": "Beginner-friendly tarot card deck with guidebook for spiritual exploration and self-discovery.",
+    "features": [
+      "78 Premium Tarot Cards",
+      "Illustrated Guidebook",
+      "Beginner Friendly",
+      "Durable Finish"
+    ],
+    "pros": [
+      "Easy learning",
+      "Beautiful artwork",
+      "Great for beginners",
+      "Durable quality"
+    ],
+    "cons": [
+      "Learning curve",
+      "Guidebook is basic"
+    ],
+    "affiliateLink": "#",
+    "category": "spirituality",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "MysticMoon",
+    "zodiac": {
+      "sign": "Scorpio",
+      "symbol": "♏",
+      "dates": "October 23 - November 21",
+      "description": "Scorpios are naturally curious about mystery, intuition, and deep spiritual exploration."
+    }
+  },
+  {
+    "id": "prod-26",
+    "title": "Yoga Meditation Mat",
+    "slug": "yoga-meditation-mat",
+    "price": "$44.99",
+    "rating": 4.8,
+    "reviewsCount": 15600,
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=600&auto=format&fit=crop",
+    "description": "Eco-friendly yoga and meditation mat with extra cushioning and anti-slip texture.",
+    "features": [
+      "Eco-Friendly Material",
+      "Anti-Slip Surface",
+      "Extra Cushioning",
+      "Lightweight Design"
+    ],
+    "pros": [
+      "Comfortable",
+      "Durable",
+      "Easy to clean",
+      "Portable"
+    ],
+    "cons": [
+      "Slight rubber smell initially",
+      "Premium pricing"
+    ],
+    "affiliateLink": "#",
+    "category": "fitness",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "ZenFlex",
+    "zodiac": {
+      "sign": "Sagittarius",
+      "symbol": "♐",
+      "dates": "November 22 - December 21",
+      "description": "Sagittarius loves personal growth, freedom, and healthy lifestyle activities like yoga."
+    }
+  },
+  {
+    "id": "prod-27",
+    "title": "Incense Stick and Holder Set",
+    "slug": "incense-stick-holder-set",
+    "price": "$15.99",
+    "rating": 4.5,
+    "reviewsCount": 7300,
+    "image": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?q=80&w=600&auto=format&fit=crop",
+    "description": "A calming incense gift set with natural fragrances and decorative incense holder.",
+    "features": [
+      "Natural Fragrances",
+      "Decorative Holder",
+      "Long Burning Time",
+      "Meditation Friendly"
+    ],
+    "pros": [
+      "Affordable",
+      "Relaxing aroma",
+      "Elegant design",
+      "Good variety"
+    ],
+    "cons": [
+      "Smoke may be strong",
+      "Fragrance preferences vary"
+    ],
+    "affiliateLink": "#",
+    "category": "spirituality",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "SoulScents",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus enjoys calming sensory experiences and peaceful home environments."
+    }
+  },
+  {
+    "id": "prod-28",
+    "title": "Spigen Tempered Glass Screen Protector",
+    "slug": "spigen-tempered-glass-screen-protector",
+    "price": "$19.99",
+    "rating": 4.8,
+    "reviewsCount": 28400,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=600&auto=format&fit=crop",
+    "description": "Premium tempered glass screen protector with strong scratch resistance and smooth touch sensitivity.",
+    "features": [
+      "9H Hardness Protection",
+      "Oleophobic Coating",
+      "Bubble-Free Installation",
+      "HD Clarity"
+    ],
+    "pros": [
+      "Excellent protection",
+      "Easy installation",
+      "Crystal clear display",
+      "Durable build"
+    ],
+    "cons": [
+      "Can crack on hard impact",
+      "Slightly premium price"
+    ],
+    "affiliateLink": "#",
+    "category": "tech-accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Spigen",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns value practicality and long-lasting protection for expensive devices."
+    }
+  },
+  {
+    "id": "prod-29",
+    "title": "ESR Privacy Screen Protector",
+    "slug": "esr-privacy-screen-protector",
+    "price": "$24.99",
+    "rating": 4.7,
+    "reviewsCount": 16200,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=600&auto=format&fit=crop",
+    "description": "Advanced privacy screen protector that keeps your smartphone display visible only from direct angles.",
+    "features": [
+      "Anti-Spy Privacy Filter",
+      "Scratch Resistant",
+      "Fingerprint Resistant",
+      "Easy Installation Frame"
+    ],
+    "pros": [
+      "Excellent privacy",
+      "Strong protection",
+      "Smooth touch response",
+      "Premium finish"
+    ],
+    "cons": [
+      "Slightly reduces brightness",
+      "Higher price"
+    ],
+    "affiliateLink": "#",
+    "category": "tech-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "ESR",
+    "zodiac": {
+      "sign": "Scorpio",
+      "symbol": "♏",
+      "dates": "October 23 - November 21",
+      "description": "Scorpios value privacy and security, making anti-spy screen protectors ideal."
+    }
+  },
+  {
+    "id": "prod-30",
+    "title": "Blue Light Blocking Laptop Screen Filter",
+    "slug": "blue-light-blocking-laptop-filter",
+    "price": "$34.99",
+    "rating": 4.6,
+    "reviewsCount": 9800,
+    "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?q=80&w=600&auto=format&fit=crop",
+    "description": "Protect your eyes during long work or gaming sessions with this blue light reduction screen filter.",
+    "features": [
+      "Blue Light Reduction",
+      "Anti-Glare Technology",
+      "Easy Magnetic Attachment",
+      "Eye Comfort Design"
+    ],
+    "pros": [
+      "Reduces eye strain",
+      "Easy to install",
+      "Good for work",
+      "Improves comfort"
+    ],
+    "cons": [
+      "Slight color tint",
+      "Not universal fit"
+    ],
+    "affiliateLink": "#",
+    "category": "laptop-accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "EyeGuard",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate productivity and health-focused accessories for daily work."
+    }
+  },
+  {
+    "id": "prod-31",
+    "title": "Ringke Camera Lens Protector",
+    "slug": "ringke-camera-lens-protector",
+    "price": "$14.99",
+    "rating": 4.5,
+    "reviewsCount": 7400,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=600&auto=format&fit=crop",
+    "description": "Ultra-clear camera lens protector designed to keep smartphone cameras safe from scratches.",
+    "features": [
+      "Scratch Resistant Glass",
+      "Ultra HD Clarity",
+      "Precise Fit",
+      "Case Friendly Design"
+    ],
+    "pros": [
+      "Protects expensive cameras",
+      "Maintains image quality",
+      "Easy fit",
+      "Affordable"
+    ],
+    "cons": [
+      "Small installation area",
+      "May crack over time"
+    ],
+    "affiliateLink": "#",
+    "category": "smartphone-accessories",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Ringke",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos love capturing memories and protecting premium smartphone cameras."
+    }
+  },
+  {
+    "id": "prod-32",
+    "title": "Belkin Anti-Glare Screen Protector",
+    "slug": "belkin-anti-glare-screen-protector",
+    "price": "$27.99",
+    "rating": 4.7,
+    "reviewsCount": 11300,
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=600&auto=format&fit=crop",
+    "description": "Anti-glare screen protector designed for better visibility under bright lighting conditions.",
+    "features": [
+      "Anti-Glare Finish",
+      "Fingerprint Resistant",
+      "Smooth Touch Feel",
+      "HD Transparency"
+    ],
+    "pros": [
+      "Excellent outdoor visibility",
+      "Reduces reflections",
+      "Comfortable viewing",
+      "Premium quality"
+    ],
+    "cons": [
+      "Slightly matte display look",
+      "Costlier than regular protectors"
+    ],
+    "affiliateLink": "#",
+    "category": "tech-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Belkin",
+    "zodiac": {
+      "sign": "Aquarius",
+      "symbol": "♒",
+      "dates": "January 20 - February 18",
+      "description": "Aquarius enjoys innovative and practical tech accessories for everyday use."
+    }
+  },
+  {
+    "id": "prod-33",
+    "title": "ZAGG InvisibleShield Glass Elite",
+    "slug": "zagg-invisibleshield-glass-elite",
+    "price": "$39.99",
+    "rating": 4.8,
+    "reviewsCount": 22100,
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=600&auto=format&fit=crop",
+    "description": "Premium screen protector with advanced impact protection and anti-bacterial coating.",
+    "features": [
+      "Impact Protection",
+      "Anti-Bacterial Surface",
+      "Smudge Resistant",
+      "Reinforced Glass"
+    ],
+    "pros": [
+      "Premium durability",
+      "Advanced protection",
+      "Smooth feel",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Expensive",
+      "Limited device support"
+    ],
+    "affiliateLink": "#",
+    "category": "smartphone-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "ZAGG",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus values durability, comfort, and premium-quality products."
+    }
+  },
+  {
+    "id": "prod-34",
+    "title": "Laptop Webcam Privacy Cover",
+    "slug": "laptop-webcam-privacy-cover",
+    "price": "$9.99",
+    "rating": 4.4,
+    "reviewsCount": 5400,
+    "image": "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?q=80&w=600&auto=format&fit=crop",
+    "description": "Slim webcam privacy slider cover to protect against unwanted camera access and spying.",
+    "features": [
+      "Ultra-Thin Design",
+      "Easy Slide Mechanism",
+      "Strong Adhesive",
+      "Universal Compatibility"
+    ],
+    "pros": [
+      "Improves privacy",
+      "Very affordable",
+      "Simple installation",
+      "Compact"
+    ],
+    "cons": [
+      "Can loosen over time",
+      "Small size easy to misplace"
+    ],
+    "affiliateLink": "#",
+    "category": "privacy-accessories",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "SafeCam",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Cancer values personal safety, comfort, and secure private spaces."
+    }
+  },
+  {
+    "id": "prod-35",
+    "title": "Neutrogena Ultra Sheer Sunscreen SPF 50",
+    "slug": "neutrogena-ultra-sheer-sunscreen-spf50",
+    "price": "$14.99",
+    "rating": 4.8,
+    "reviewsCount": 45200,
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?q=80&w=600&auto=format&fit=crop",
+    "description": "Lightweight sunscreen with broad-spectrum SPF 50 protection against harmful UV rays.",
+    "features": [
+      "SPF 50 Protection",
+      "Non-Greasy Formula",
+      "Water Resistant",
+      "Suitable for Daily Use"
+    ],
+    "pros": [
+      "Lightweight texture",
+      "Strong sun protection",
+      "Affordable",
+      "Dermatologist recommended"
+    ],
+    "cons": [
+      "May leave slight white cast",
+      "Needs reapplication outdoors"
+    ],
+    "affiliateLink": "#",
+    "category": "skincare",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Neutrogena",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos love outdoor activities and need strong sun protection for healthy glowing skin."
+    }
+  },
+  {
+    "id": "prod-36",
+    "title": "CeraVe Daily Moisturizing Lotion",
+    "slug": "cerave-daily-moisturizing-lotion",
+    "price": "$16.99",
+    "rating": 4.9,
+    "reviewsCount": 38900,
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=600&auto=format&fit=crop",
+    "description": "Hydrating daily moisturizer designed to restore and protect the skin barrier.",
+    "features": [
+      "Hyaluronic Acid",
+      "Non-Comedogenic",
+      "Fragrance Free",
+      "24-Hour Hydration"
+    ],
+    "pros": [
+      "Excellent hydration",
+      "Gentle on skin",
+      "Suitable for sensitive skin",
+      "Non-greasy"
+    ],
+    "cons": [
+      "Basic packaging",
+      "May feel heavy for oily skin"
+    ],
+    "affiliateLink": "#",
+    "category": "skincare",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "CeraVe",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Cancer values comfort and gentle self-care products for healthy skin."
+    }
+  },
+  {
+    "id": "prod-37",
+    "title": "Minimalist Vitamin C Face Serum",
+    "slug": "minimalist-vitamin-c-face-serum",
+    "price": "$12.99",
+    "rating": 4.7,
+    "reviewsCount": 21400,
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?q=80&w=600&auto=format&fit=crop",
+    "description": "Vitamin C serum that helps brighten skin and reduce dullness caused by pollution and stress.",
+    "features": [
+      "10% Vitamin C",
+      "Brightening Formula",
+      "Antioxidant Protection",
+      "Lightweight Texture"
+    ],
+    "pros": [
+      "Improves glow",
+      "Lightweight",
+      "Affordable",
+      "Reduces dullness"
+    ],
+    "cons": [
+      "Results take time",
+      "Can irritate sensitive skin"
+    ],
+    "affiliateLink": "#",
+    "category": "skincare",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Minimalist",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate simple, effective, and science-based skincare routines."
+    }
+  },
+  {
+    "id": "prod-38",
+    "title": "Hydro Flask Stainless Steel Water Bottle",
+    "slug": "hydro-flask-water-bottle",
+    "price": "$29.99",
+    "rating": 4.8,
+    "reviewsCount": 27100,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=600&auto=format&fit=crop",
+    "description": "Premium insulated water bottle designed to keep drinks cold and support daily hydration.",
+    "features": [
+      "Double-Wall Insulation",
+      "Leakproof Lid",
+      "BPA-Free Material",
+      "Long Temperature Retention"
+    ],
+    "pros": [
+      "Encourages hydration",
+      "Durable build",
+      "Stylish design",
+      "Eco-friendly"
+    ],
+    "cons": [
+      "Premium pricing",
+      "Slightly heavy"
+    ],
+    "affiliateLink": "#",
+    "category": "wellness",
+    "isTrending": false,
+    "isDeal": false,
+    "brand": "Hydro Flask",
+    "zodiac": {
+      "sign": "Aquarius",
+      "symbol": "♒",
+      "dates": "January 20 - February 18",
+      "description": "Aquarius values health-conscious and sustainable lifestyle products."
+    }
+  },
+  {
+    "id": "prod-39",
+    "title": "Cetaphil Gentle Skin Cleanser",
+    "slug": "cetaphil-gentle-skin-cleanser",
+    "price": "$13.99",
+    "rating": 4.8,
+    "reviewsCount": 33800,
+    "image": "https://images.unsplash.com/photo-1556228578-dd6c7b1ccfbf?q=80&w=600&auto=format&fit=crop",
+    "description": "A gentle cleanser suitable for removing dirt, oil, and pollution without drying the skin.",
+    "features": [
+      "Soap-Free Formula",
+      "Dermatologist Recommended",
+      "Gentle Cleansing",
+      "Suitable for Sensitive Skin"
+    ],
+    "pros": [
+      "Very gentle",
+      "Good for daily use",
+      "Trusted brand",
+      "Non-irritating"
+    ],
+    "cons": [
+      "Does not foam much",
+      "Simple packaging"
+    ],
+    "affiliateLink": "#",
+    "category": "skincare",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Cetaphil",
+    "zodiac": {
+      "sign": "Pisces",
+      "symbol": "♓",
+      "dates": "February 19 - March 20",
+      "description": "Pisces prefer calming and gentle skincare products that feel soothing."
+    }
+  },
+  {
+    "id": "prod-40",
+    "title": "The Face Shop Aloe Vera Gel",
+    "slug": "the-face-shop-aloe-vera-gel",
+    "price": "$9.99",
+    "rating": 4.6,
+    "reviewsCount": 19400,
+    "image": "https://images.unsplash.com/photo-1619451334792-150fd785ee74?q=80&w=600&auto=format&fit=crop",
+    "description": "Cooling aloe vera gel that hydrates and soothes skin after sun exposure.",
+    "features": [
+      "99% Aloe Vera",
+      "Cooling Effect",
+      "Lightweight Formula",
+      "Multi-Purpose Use"
+    ],
+    "pros": [
+      "Refreshing",
+      "Affordable",
+      "Soothes skin",
+      "Non-sticky"
+    ],
+    "cons": [
+      "Fragrance may not suit everyone",
+      "Temporary hydration"
+    ],
+    "affiliateLink": "#",
+    "category": "skincare",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "The Face Shop",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus enjoys relaxing self-care products and soothing skincare routines."
+    }
+  },
+  {
+    "id": "prod-41",
+    "title": "Silk Sleep Eye Mask",
+    "slug": "silk-sleep-eye-mask",
+    "price": "$18.99",
+    "rating": 4.5,
+    "reviewsCount": 8600,
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=600&auto=format&fit=crop",
+    "description": "Soft silk sleep mask designed to improve sleep quality and reduce eye strain.",
+    "features": [
+      "Premium Silk Material",
+      "Comfortable Fit",
+      "Light Blocking Design",
+      "Skin-Friendly Fabric"
+    ],
+    "pros": [
+      "Improves sleep comfort",
+      "Gentle on skin",
+      "Lightweight",
+      "Luxury feel"
+    ],
+    "cons": [
+      "Needs delicate washing",
+      "May slip during sleep"
+    ],
+    "affiliateLink": "#",
+    "category": "wellness",
+    "isTrending": false,
+    "isDeal": false,
+    "brand": "SleepAura",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Libra values comfort, relaxation, and beauty-focused wellness products."
+    }
+  },
+  {
+    "id": "prod-42",
+    "title": "Dior Sauvage Eau de Parfum",
+    "slug": "dior-sauvage-eau-de-parfum",
+    "price": "$129.99",
+    "rating": 4.9,
+    "reviewsCount": 58400,
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=600&auto=format&fit=crop",
+    "description": "A bold and fresh fragrance with bergamot, amber, and woody notes perfect for romantic dates.",
+    "features": [
+      "Long-Lasting Eau de Parfum",
+      "Fresh and Woody Notes",
+      "Luxury Designer Fragrance",
+      "Elegant Bottle Design"
+    ],
+    "pros": [
+      "Very attractive scent",
+      "Long-lasting",
+      "Luxury feel",
+      "Compliment magnet"
+    ],
+    "cons": [
+      "Expensive",
+      "Very common fragrance"
+    ],
+    "affiliateLink": "#",
+    "category": "fragrance",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Dior",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos love bold, confident, and attention-grabbing fragrances."
+    }
+  },
+  {
+    "id": "prod-43",
+    "title": "Versace Eros Eau de Toilette",
+    "slug": "versace-eros-eau-de-toilette",
+    "price": "$99.99",
+    "rating": 4.8,
+    "reviewsCount": 41300,
+    "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?q=80&w=600&auto=format&fit=crop",
+    "description": "A romantic fragrance with mint, vanilla, and tonka bean notes designed for attraction and nightlife.",
+    "features": [
+      "Fresh Mint Opening",
+      "Vanilla Base Notes",
+      "Strong Projection",
+      "Stylish Bottle Design"
+    ],
+    "pros": [
+      "Great for dates",
+      "Strong performance",
+      "Youthful fragrance",
+      "Very attractive scent"
+    ],
+    "cons": [
+      "Can feel strong indoors",
+      "Not ideal for hot weather"
+    ],
+    "affiliateLink": "#",
+    "category": "fragrance",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Versace",
+    "zodiac": {
+      "sign": "Scorpio",
+      "symbol": "♏",
+      "dates": "October 23 - November 21",
+      "description": "Scorpios prefer mysterious, seductive, and intense fragrances."
+    }
+  },
+  {
+    "id": "prod-44",
+    "title": "Bleu de Chanel Eau de Parfum",
+    "slug": "bleu-de-chanel-eau-de-parfum",
+    "price": "$145.99",
+    "rating": 4.9,
+    "reviewsCount": 36800,
+    "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?q=80&w=600&auto=format&fit=crop",
+    "description": "A sophisticated fragrance with citrus, incense, and woody notes for elegant evening dates.",
+    "features": [
+      "Premium Luxury Fragrance",
+      "Elegant Woody Aroma",
+      "Long-Lasting Formula",
+      "Versatile Usage"
+    ],
+    "pros": [
+      "Very classy scent",
+      "Perfect for formal dates",
+      "Long-lasting",
+      "Premium quality"
+    ],
+    "cons": [
+      "High price",
+      "Subtle projection initially"
+    ],
+    "affiliateLink": "#",
+    "category": "fragrance",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Chanel",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns appreciate elegance, sophistication, and timeless luxury."
+    }
+  },
+  {
+    "id": "prod-45",
+    "title": "Azzaro The Most Wanted",
+    "slug": "azzaro-the-most-wanted",
+    "price": "$89.99",
+    "rating": 4.7,
+    "reviewsCount": 19400,
+    "image": "https://images.unsplash.com/photo-1615634262417-d7d8db31f0d8?q=80&w=600&auto=format&fit=crop",
+    "description": "Warm spicy fragrance with caramel and amber notes ideal for night dates and winter evenings.",
+    "features": [
+      "Warm Spicy Notes",
+      "Strong Longevity",
+      "Modern Masculine Aroma",
+      "Luxury Bottle Design"
+    ],
+    "pros": [
+      "Excellent for night dates",
+      "Unique fragrance",
+      "Long-lasting",
+      "Warm romantic vibe"
+    ],
+    "cons": [
+      "Too sweet for some people",
+      "Best suited for cooler weather"
+    ],
+    "affiliateLink": "#",
+    "category": "fragrance",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Azzaro",
+    "zodiac": {
+      "sign": "Aries",
+      "symbol": "♈",
+      "dates": "March 21 - April 19",
+      "description": "Aries love bold, energetic, and confident fragrances with strong presence."
+    }
+  },
+  {
+    "id": "prod-46",
+    "title": "Davidoff Cool Water",
+    "slug": "davidoff-cool-water",
+    "price": "$54.99",
+    "rating": 4.6,
+    "reviewsCount": 52100,
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?q=80&w=600&auto=format&fit=crop",
+    "description": "Classic aquatic fragrance with refreshing and clean notes perfect for casual daytime dates.",
+    "features": [
+      "Fresh Aquatic Scent",
+      "Lightweight Formula",
+      "Everyday Wear",
+      "Affordable Luxury"
+    ],
+    "pros": [
+      "Fresh and clean",
+      "Budget-friendly",
+      "Easy to wear",
+      "Great summer fragrance"
+    ],
+    "cons": [
+      "Moderate longevity",
+      "Common fragrance"
+    ],
+    "affiliateLink": "#",
+    "category": "fragrance",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Davidoff",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Geminis enjoy energetic, fresh, and versatile fragrances."
+    }
+  },
+  {
+    "id": "prod-47",
+    "title": "YSL Y Eau de Parfum",
+    "slug": "ysl-y-eau-de-parfum",
+    "price": "$119.99",
+    "rating": 4.8,
+    "reviewsCount": 28700,
+    "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59db9?q=80&w=600&auto=format&fit=crop",
+    "description": "Modern masculine fragrance with apple, sage, and woody notes for confident personalities.",
+    "features": [
+      "Fresh and Sweet Blend",
+      "Modern Masculine Style",
+      "Strong Longevity",
+      "Versatile Fragrance"
+    ],
+    "pros": [
+      "Mass appealing scent",
+      "Great projection",
+      "Long-lasting",
+      "Modern vibe"
+    ],
+    "cons": [
+      "Premium pricing",
+      "Sweetness may not suit everyone"
+    ],
+    "affiliateLink": "#",
+    "category": "fragrance",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Yves Saint Laurent",
+    "zodiac": {
+      "sign": "Sagittarius",
+      "symbol": "♐",
+      "dates": "November 22 - December 21",
+      "description": "Sagittarius enjoys adventurous, energetic, and modern fragrance styles."
+    }
+  },
+  {
+    "id": "prod-48",
+    "title": "Calvin Klein CK One",
+    "slug": "calvin-klein-ck-one",
+    "price": "$44.99",
+    "rating": 4.5,
+    "reviewsCount": 31800,
+    "image": "https://images.unsplash.com/photo-1619994403073-2cec7e5d8f51?q=80&w=600&auto=format&fit=crop",
+    "description": "Light and refreshing unisex fragrance suitable for casual dates and daily wear.",
+    "features": [
+      "Unisex Fragrance",
+      "Fresh Citrus Notes",
+      "Minimalist Bottle",
+      "Everyday Wear"
+    ],
+    "pros": [
+      "Affordable",
+      "Fresh scent",
+      "Unisex appeal",
+      "Easy to wear"
+    ],
+    "cons": [
+      "Shorter longevity",
+      "Simple fragrance profile"
+    ],
+    "affiliateLink": "#",
+    "category": "fragrance",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Calvin Klein",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Libras appreciate balanced, pleasant, and universally attractive fragrances."
+    }
+  },
+  {
+    "id": "prod-49",
+    "title": "Slim Fit White Oxford Shirt",
+    "slug": "slim-fit-white-oxford-shirt",
+    "price": "$39.99",
+    "rating": 4.7,
+    "reviewsCount": 12800,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?q=80&w=600&auto=format&fit=crop",
+    "description": "Classic slim fit white Oxford shirt perfect for dinner dates and smart casual looks.",
+    "features": [
+      "Breathable Cotton Fabric",
+      "Slim Fit Design",
+      "Wrinkle Resistant",
+      "Versatile Styling"
+    ],
+    "pros": [
+      "Timeless style",
+      "Easy to match",
+      "Comfortable fit",
+      "Perfect for dates"
+    ],
+    "cons": [
+      "Needs ironing",
+      "White color stains easily"
+    ],
+    "affiliateLink": "#",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "H&M",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Libras appreciate clean, balanced, and stylish fashion choices."
+    }
+  },
+  {
+    "id": "prod-50",
+    "title": "Levi's Dark Blue Slim Jeans",
+    "slug": "levis-dark-blue-slim-jeans",
+    "price": "$59.99",
+    "rating": 4.8,
+    "reviewsCount": 21400,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=600&auto=format&fit=crop",
+    "description": "Premium slim fit dark blue jeans designed for casual and semi-formal date outfits.",
+    "features": [
+      "Stretch Denim Material",
+      "Slim Fit Style",
+      "Fade Resistant Color",
+      "Comfortable Wear"
+    ],
+    "pros": [
+      "Versatile outfit pairing",
+      "Comfortable fit",
+      "Stylish look",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Premium pricing",
+      "May require proper sizing"
+    ],
+    "affiliateLink": "#",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Levi's",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus values comfort, durability, and timeless fashion pieces."
+    }
+  },
+  {
+    "id": "prod-51",
+    "title": "Nike Air Force 1 White Sneakers",
+    "slug": "nike-air-force-1-white-sneakers",
+    "price": "$119.99",
+    "rating": 4.9,
+    "reviewsCount": 48600,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=600&auto=format&fit=crop",
+    "description": "Clean and stylish white sneakers perfect for casual first date outfits.",
+    "features": [
+      "Premium Leather Material",
+      "Cushioned Sole",
+      "Classic Streetwear Design",
+      "Durable Build"
+    ],
+    "pros": [
+      "Very stylish",
+      "Matches many outfits",
+      "Comfortable",
+      "Popular fashion choice"
+    ],
+    "cons": [
+      "Gets dirty easily",
+      "Higher price"
+    ],
+    "affiliateLink": "#",
+    "category": "footwear",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Nike",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Geminis enjoy trendy, youthful, and versatile fashion styles."
+    }
+  },
+  {
+    "id": "prod-52",
+    "title": "Casio Minimalist Analog Watch",
+    "slug": "casio-minimalist-analog-watch",
+    "price": "$44.99",
+    "rating": 4.6,
+    "reviewsCount": 9700,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=600&auto=format&fit=crop",
+    "description": "Elegant minimalist watch that adds sophistication to any first date outfit.",
+    "features": [
+      "Minimalist Dial Design",
+      "Leather Strap",
+      "Water Resistant",
+      "Quartz Movement"
+    ],
+    "pros": [
+      "Affordable elegance",
+      "Lightweight",
+      "Easy styling",
+      "Classic design"
+    ],
+    "cons": [
+      "Basic features",
+      "Limited premium feel"
+    ],
+    "affiliateLink": "#",
+    "category": "accessories",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Casio",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns appreciate classy and practical fashion accessories."
+    }
+  },
+  {
+    "id": "prod-53",
+    "title": "Zara Olive Green Polo T-Shirt",
+    "slug": "zara-olive-green-polo-shirt",
+    "price": "$34.99",
+    "rating": 4.5,
+    "reviewsCount": 8200,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=600&auto=format&fit=crop",
+    "description": "Smart casual polo t-shirt suitable for coffee dates and relaxed outings.",
+    "features": [
+      "Soft Cotton Fabric",
+      "Slim Fit Style",
+      "Breathable Material",
+      "Modern Casual Look"
+    ],
+    "pros": [
+      "Comfortable",
+      "Stylish casual vibe",
+      "Easy to wear",
+      "Good color choice"
+    ],
+    "cons": [
+      "May shrink slightly",
+      "Limited formal use"
+    ],
+    "affiliateLink": "#",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Zara",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate clean, neat, and polished outfit combinations."
+    }
+  },
+  {
+    "id": "prod-54",
+    "title": "Ray-Ban Classic Aviator Sunglasses",
+    "slug": "rayban-classic-aviator-sunglasses",
+    "price": "$149.99",
+    "rating": 4.8,
+    "reviewsCount": 30100,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=600&auto=format&fit=crop",
+    "description": "Iconic aviator sunglasses that elevate outdoor date outfits with a confident style.",
+    "features": [
+      "UV Protection Lenses",
+      "Lightweight Metal Frame",
+      "Classic Aviator Design",
+      "Premium Build Quality"
+    ],
+    "pros": [
+      "Stylish appearance",
+      "Great outdoor accessory",
+      "Premium feel",
+      "Timeless design"
+    ],
+    "cons": [
+      "Expensive",
+      "Needs careful handling"
+    ],
+    "affiliateLink": "#",
+    "category": "accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Ray-Ban",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos love bold and attention-grabbing fashion accessories."
+    }
+  },
+  {
+    "id": "prod-55",
+    "title": "Tommy Hilfiger Casual Chinos",
+    "slug": "tommy-hilfiger-casual-chinos",
+    "price": "$69.99",
+    "rating": 4.7,
+    "reviewsCount": 14300,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=600&auto=format&fit=crop",
+    "description": "Modern slim fit chinos that balance comfort and smart casual style for first dates.",
+    "features": [
+      "Stretch Cotton Fabric",
+      "Slim Fit Design",
+      "Comfort Waistband",
+      "Versatile Styling"
+    ],
+    "pros": [
+      "Comfortable fit",
+      "Smart casual look",
+      "Easy to style",
+      "Premium quality"
+    ],
+    "cons": [
+      "Premium price",
+      "Needs proper sizing"
+    ],
+    "affiliateLink": "#",
+    "category": "fashion",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Tommy Hilfiger",
+    "zodiac": {
+      "sign": "Aquarius",
+      "symbol": "♒",
+      "dates": "January 20 - February 18",
+      "description": "Aquarius enjoys modern, stylish, and versatile fashion choices."
+    }
+  },
+  {
+    "id": "prod-56",
+    "title": "Casio Classic Analog Leather Watch",
+    "slug": "casio-classic-analog-leather-watch",
+    "price": "$49.99",
+    "rating": 4.7,
+    "reviewsCount": 18400,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=600&auto=format&fit=crop",
+    "description": "Minimalist analog watch with a leather strap designed for professional and interview-ready looks.",
+    "features": [
+      "Minimalist Dial Design",
+      "Genuine Leather Strap",
+      "Quartz Movement",
+      "Water Resistant"
+    ],
+    "pros": [
+      "Professional appearance",
+      "Affordable",
+      "Comfortable fit",
+      "Easy to style"
+    ],
+    "cons": [
+      "Basic feature set",
+      "Leather needs maintenance"
+    ],
+    "affiliateLink": "#",
+    "category": "watches",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Casio",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns appreciate professional, practical, and timeless accessories."
+    }
+  },
+  {
+    "id": "prod-57",
+    "title": "Timex Fairfield Minimal Watch",
+    "slug": "timex-fairfield-minimal-watch",
+    "price": "$69.99",
+    "rating": 4.8,
+    "reviewsCount": 12600,
+    "image": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?q=80&w=600&auto=format&fit=crop",
+    "description": "Elegant minimalist watch with a clean white dial suitable for formal interviews and office wear.",
+    "features": [
+      "Clean Minimal Design",
+      "Indiglo Backlight",
+      "Leather Strap",
+      "Slim Case Profile"
+    ],
+    "pros": [
+      "Elegant look",
+      "Lightweight",
+      "Professional style",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Limited water resistance",
+      "Simple appearance"
+    ],
+    "affiliateLink": "#",
+    "category": "watches",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Timex",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos prefer neat, clean, and detail-oriented fashion accessories."
+    }
+  },
+  {
+    "id": "prod-58",
+    "title": "Fossil Grant Chronograph Watch",
+    "slug": "fossil-grant-chronograph-watch",
+    "price": "$129.99",
+    "rating": 4.8,
+    "reviewsCount": 21700,
+    "image": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?q=80&w=600&auto=format&fit=crop",
+    "description": "Sophisticated chronograph watch with a premium leather strap and formal design.",
+    "features": [
+      "Chronograph Functionality",
+      "Premium Leather Strap",
+      "Roman Numeral Dial",
+      "Quartz Movement"
+    ],
+    "pros": [
+      "Luxury feel",
+      "Professional design",
+      "Strong build quality",
+      "Versatile styling"
+    ],
+    "cons": [
+      "Slightly bulky",
+      "Premium pricing"
+    ],
+    "affiliateLink": "#",
+    "category": "watches",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Fossil",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos enjoy stylish and confident accessories with premium appeal."
+    }
+  },
+  {
+    "id": "prod-59",
+    "title": "Seiko Stainless Steel Dress Watch",
+    "slug": "seiko-stainless-steel-dress-watch",
+    "price": "$189.99",
+    "rating": 4.9,
+    "reviewsCount": 9800,
+    "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?q=80&w=600&auto=format&fit=crop",
+    "description": "Elegant stainless steel dress watch perfect for corporate interviews and formal occasions.",
+    "features": [
+      "Stainless Steel Strap",
+      "Automatic Movement",
+      "Scratch Resistant Glass",
+      "Classic Dress Design"
+    ],
+    "pros": [
+      "Premium craftsmanship",
+      "Very professional look",
+      "Durable build",
+      "Timeless style"
+    ],
+    "cons": [
+      "Expensive",
+      "Heavier than leather watches"
+    ],
+    "affiliateLink": "#",
+    "category": "watches",
+    "isTrending": false,
+    "isDeal": false,
+    "brand": "Seiko",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus values quality, reliability, and classic luxury products."
+    }
+  },
+  {
+    "id": "prod-60",
+    "title": "Daniel Wellington Classic Bristol",
+    "slug": "daniel-wellington-classic-bristol",
+    "price": "$159.99",
+    "rating": 4.7,
+    "reviewsCount": 15400,
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?q=80&w=600&auto=format&fit=crop",
+    "description": "Ultra-minimal watch with a clean dial and brown leather strap for modern professional outfits.",
+    "features": [
+      "Minimal Scandinavian Design",
+      "Slim Watch Profile",
+      "Premium Leather Strap",
+      "Elegant White Dial"
+    ],
+    "pros": [
+      "Very stylish",
+      "Lightweight",
+      "Perfect for smart casual looks",
+      "Premium aesthetic"
+    ],
+    "cons": [
+      "High price for features",
+      "Minimal functionality"
+    ],
+    "affiliateLink": "#",
+    "category": "watches",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Daniel Wellington",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Libras appreciate elegant, balanced, and aesthetically pleasing accessories."
+    }
+  },
+  {
+    "id": "prod-61",
+    "title": "Citizen Eco-Drive Formal Watch",
+    "slug": "citizen-eco-drive-formal-watch",
+    "price": "$219.99",
+    "rating": 4.9,
+    "reviewsCount": 13600,
+    "image": "https://images.unsplash.com/photo-1490367532201-b9bc1dc483f6?q=80&w=600&auto=format&fit=crop",
+    "description": "Solar-powered professional watch combining elegant design with modern eco-friendly technology.",
+    "features": [
+      "Eco-Drive Solar Technology",
+      "Formal Stainless Steel Design",
+      "Long Battery Life",
+      "Water Resistant"
+    ],
+    "pros": [
+      "No battery replacement needed",
+      "Professional appearance",
+      "Reliable brand",
+      "Premium quality"
+    ],
+    "cons": [
+      "Premium price",
+      "Slightly larger dial"
+    ],
+    "affiliateLink": "#",
+    "category": "watches",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Citizen",
+    "zodiac": {
+      "sign": "Aquarius",
+      "symbol": "♒",
+      "dates": "January 20 - February 18",
+      "description": "Aquarius enjoys modern technology combined with professional style."
+    }
+  },
+  {
+    "id": "prod-62",
+    "title": "Titan Neo Analog Watch",
+    "slug": "titan-neo-analog-watch",
+    "price": "$79.99",
+    "rating": 4.6,
+    "reviewsCount": 24300,
+    "image": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?q=80&w=600&auto=format&fit=crop",
+    "description": "Affordable and elegant analog watch designed for interviews, office wear, and formal events.",
+    "features": [
+      "Slim Analog Dial",
+      "Formal Leather Strap",
+      "Lightweight Design",
+      "Quartz Accuracy"
+    ],
+    "pros": [
+      "Budget-friendly",
+      "Elegant appearance",
+      "Comfortable daily wear",
+      "Trusted Indian brand"
+    ],
+    "cons": [
+      "Basic feature set",
+      "Leather strap wears over time"
+    ],
+    "affiliateLink": "#",
+    "category": "watches",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Titan",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Cancer values reliability, simplicity, and comfortable everyday accessories."
+    }
   }
 ]

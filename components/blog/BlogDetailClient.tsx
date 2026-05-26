@@ -232,6 +232,11 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
                 <div className="blog-detail-type-badge">
                   {getCategoryEmoji(product.category)} {categoryLabel}
                 </div>
+                {(product as any).zodiac && (
+                  <div className="blog-detail-zodiac-badge">
+                    {(product as any).zodiac.symbol} {(product as any).zodiac.sign}
+                  </div>
+                )}
               </div>
 
               <div className="blog-detail-product-card">
@@ -306,6 +311,14 @@ export default function BlogDetailClient({ blog, products }: BlogDetailClientPro
                   </ul>
                 </div>
               </div>
+
+              {(product as any).zodiac && (
+                <div className="blog-detail-zodiac-section">
+                  <h3>{(product as any).zodiac.symbol} Zodiac: {(product as any).zodiac.sign}</h3>
+                  <p className="blog-detail-zodiac-dates">{(product as any).zodiac.dates}</p>
+                  <p className="blog-detail-zodiac-description">{(product as any).zodiac.description}</p>
+                </div>
+              )}
 
               <div className="blog-detail-best-for-section">
                 <h3>Best For</h3>
