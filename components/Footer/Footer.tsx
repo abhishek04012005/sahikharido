@@ -31,6 +31,7 @@ const Footer = () => {
             <ul className={styles.links}>
               <li><Link href="/">Home</Link></li>
               <li><Link href="/blog">Blogs</Link></li>
+              <li><Link href="/about">About</Link></li>
             </ul>
           </div>
 

@@ -1,4 +1,5 @@
 import Hero from '@/components/Hero/Hero';
+import AboutSection from '@/components/AboutSection/AboutSection';
 import ProductCard from '@/components/ProductCard/ProductCard';
 import BlogCard from '@/components/BlogCard/BlogCard';
 import productsData from '@/data/products.json';
@@ -71,6 +72,8 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      <AboutSection />
     </>
   );
 }
