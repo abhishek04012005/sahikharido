@@ -2234,5 +2234,1818 @@
       "dates": "June 21 - July 22",
       "description": "Cancer values reliability, simplicity, and comfortable everyday accessories."
     }
+  },
+  {
+    "id": "prod-63",
+    "title": "Bellroy Note Sleeve Leather Wallet",
+    "slug": "bellroy-note-sleeve-wallet",
+    "price": "₹9,073",
+    "rating": 4.8,
+    "reviewsCount": 2200,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=600&auto=format&fit=crop",
+    "description": "Premium slim leather wallet with RFID blocking and elegant minimalist design.",
+    "features": [
+      "RFID Blocking",
+      "Slim Bifold Design",
+      "Premium Leather",
+      "Holds 4-11 Cards"
+    ],
+    "pros": [
+      "Luxury feel",
+      "Very slim",
+      "Excellent craftsmanship",
+      "Travel friendly"
+    ],
+    "cons": [
+      "Expensive",
+      "Limited cash storage"
+    ],
+    "affiliateLink": "https://www.amazon.in/Bellroy-Sleeve-Leather-Editions-Available/dp/B082YYL1VF",
+    "category": "accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Bellroy",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns appreciate premium, practical, and long-lasting accessories."
+    }
+  },
+  {
+    "id": "prod-64",
+    "title": "Ridge RFID Blocking Metal Wallet",
+    "slug": "ridge-rfid-metal-wallet",
+    "price": "₹19,218",
+    "rating": 4.7,
+    "reviewsCount": 10000,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=600&auto=format&fit=crop",
+    "description": "Modern minimalist metal wallet with advanced RFID protection and compact storage.",
+    "features": [
+      "RFID Protection",
+      "Metal Body",
+      "Cash Clip",
+      "Compact Design"
+    ],
+    "pros": [
+      "Extremely durable",
+      "Modern design",
+      "Secure storage",
+      "Slim profile"
+    ],
+    "cons": [
+      "Very expensive",
+      "Metal may scratch"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Ridge+wallet+RFID",
+    "category": "accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Ridge",
+    "zodiac": {
+      "sign": "Aquarius",
+      "symbol": "♒",
+      "dates": "January 20 - February 18",
+      "description": "Aquarius loves futuristic, innovative, and smart lifestyle accessories."
+    }
+  },
+  {
+    "id": "prod-65",
+    "title": "Tommy Hilfiger Genuine Leather Wallet",
+    "slug": "tommy-hilfiger-genuine-leather-wallet",
+    "price": "₹1,624",
+    "rating": 4.8,
+    "reviewsCount": 363,
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=600&auto=format&fit=crop",
+    "description": "Classic bifold leather wallet with premium Tommy Hilfiger branding and compact storage.",
+    "features": [
+      "Genuine Leather",
+      "Bifold Design",
+      "Multiple Card Slots",
+      "Compact Structure"
+    ],
+    "pros": [
+      "Affordable premium brand",
+      "Elegant design",
+      "Comfortable pocket fit",
+      "Trusted quality"
+    ],
+    "cons": [
+      "No RFID protection",
+      "Basic internal layout"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Tommy+Hilfiger+wallet+men",
+    "category": "accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Tommy Hilfiger",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos enjoy stylish and premium-looking accessories."
+    }
+  },
+  {
+    "id": "prod-66",
+    "title": "Secrid Miniwallet RFID Wallet",
+    "slug": "secrid-miniwallet-rfid",
+    "price": "₹7,999",
+    "rating": 4.8,
+    "reviewsCount": 9700,
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?q=80&w=600&auto=format&fit=crop",
+    "description": "Compact RFID wallet with pop-up card mechanism and premium European leather.",
+    "features": [
+      "Pop-Up Card Access",
+      "RFID Protection",
+      "Compact Design",
+      "Premium Leather"
+    ],
+    "pros": [
+      "Very compact",
+      "Quick card access",
+      "Premium feel",
+      "Strong security"
+    ],
+    "cons": [
+      "Limited cash space",
+      "Premium pricing"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Secrid+wallet",
+    "category": "smart-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Secrid",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate organized, functional, and efficient accessories."
+    }
+  },
+  {
+    "id": "prod-67",
+    "title": "Fossil Derrick Leather Wallet",
+    "slug": "fossil-derrick-leather-wallet",
+    "price": "₹4,196",
+    "rating": 4.5,
+    "reviewsCount": 424,
+    "image": "https://images.unsplash.com/photo-1517254797898-04edd251b4fe?q=80&w=600&auto=format&fit=crop",
+    "description": "Vintage-inspired premium leather wallet with elegant craftsmanship and spacious storage.",
+    "features": [
+      "Genuine Leather",
+      "Bifold Design",
+      "Multiple Compartments",
+      "Vintage Finish"
+    ],
+    "pros": [
+      "Luxury appearance",
+      "Durable material",
+      "Good storage",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Bulkier than slim wallets",
+      "Higher price"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Fossil+Derrick+wallet",
+    "category": "accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Fossil",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus values comfort, quality, and timeless craftsmanship."
+    }
+  },
+  {
+    "id": "prod-68",
+    "title": "Ekster Smart Tracker Wallet",
+    "slug": "ekster-smart-tracker-wallet",
+    "price": "₹10,451",
+    "rating": 4.9,
+    "reviewsCount": 8800,
+    "image": "https://images.unsplash.com/photo-1589782182703-2aaa69037b5b?q=80&w=600&auto=format&fit=crop",
+    "description": "Smart wallet with RFID protection and tracker compatibility for modern everyday carry.",
+    "features": [
+      "Tracker Support",
+      "RFID Blocking",
+      "Slim Design",
+      "Quick Card Access"
+    ],
+    "pros": [
+      "Smart tracking support",
+      "Modern design",
+      "Secure storage",
+      "Premium build"
+    ],
+    "cons": [
+      "Expensive",
+      "Tracker sold separately"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Ekster+wallet",
+    "category": "smart-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Ekster",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Geminis enjoy modern gadgets and innovative lifestyle accessories."
+    }
+  },
+  {
+    "id": "prod-69",
+    "title": "Titan RFID Leather Wallet",
+    "slug": "titan-rfid-leather-wallet",
+    "price": "₹1,299",
+    "rating": 4.6,
+    "reviewsCount": 15300,
+    "image": "https://images.unsplash.com/photo-1606503825008-909a67e63c3d?q=80&w=600&auto=format&fit=crop",
+    "description": "Affordable RFID-protected leather wallet designed for daily professional use.",
+    "features": [
+      "RFID Protection",
+      "Leather Finish",
+      "Multiple Card Slots",
+      "Compact Design"
+    ],
+    "pros": [
+      "Budget-friendly",
+      "Professional look",
+      "Secure RFID protection",
+      "Trusted Indian brand"
+    ],
+    "cons": [
+      "Basic design",
+      "Average leather quality"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Titan+RFID+wallet",
+    "category": "accessories",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Titan",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Cancer values reliability, comfort, and practical everyday accessories."
+    }
+  },
+  {
+    "id": "prod-70",
+    "title": "Manyavar Embroidered Sherwani Set",
+    "slug": "manyavar-embroidered-sherwani-set",
+    "price": "₹12,999",
+    "rating": 4.8,
+    "reviewsCount": 4200,
+    "image": "https://images.unsplash.com/photo-1617137968427-85924c800a22?q=80&w=600&auto=format&fit=crop",
+    "description": "Elegant embroidered sherwani set perfect for weddings, receptions, and grand traditional functions.",
+    "features": [
+      "Premium Embroidery",
+      "Complete Sherwani Set",
+      "Royal Ethnic Design",
+      "Comfortable Fabric"
+    ],
+    "pros": [
+      "Luxurious appearance",
+      "Perfect for weddings",
+      "Premium fabric",
+      "Traditional royal look"
+    ],
+    "cons": [
+      "Expensive",
+      "Requires dry cleaning"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Manyavar+sherwani",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Manyavar",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos enjoy grand, stylish, and attention-grabbing outfits for celebrations."
+    }
+  },
+  {
+    "id": "prod-71",
+    "title": "Raymond Kurta Pajama Set",
+    "slug": "raymond-kurta-pajama-set",
+    "price": "₹3,499",
+    "rating": 4.7,
+    "reviewsCount": 6800,
+    "image": "https://images.unsplash.com/photo-1597983073493-88cd35cf93b0?q=80&w=600&auto=format&fit=crop",
+    "description": "Classic kurta pajama set designed for haldi, mehendi, puja, and casual wedding events.",
+    "features": [
+      "Soft Cotton Blend",
+      "Traditional Fit",
+      "Lightweight Fabric",
+      "Elegant Design"
+    ],
+    "pros": [
+      "Comfortable",
+      "Affordable",
+      "Perfect for traditional events",
+      "Easy to wear"
+    ],
+    "cons": [
+      "Simple design",
+      "Limited formal use"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Raymond+kurta+pajama",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Raymond",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Cancer values comfort, tradition, and elegant family celebrations."
+    }
+  },
+  {
+    "id": "prod-72",
+    "title": "Van Heusen Slim Fit Blazer",
+    "slug": "van-heusen-slim-fit-blazer",
+    "price": "₹5,999",
+    "rating": 4.6,
+    "reviewsCount": 5900,
+    "image": "https://images.unsplash.com/photo-1593032465171-8bd3f4f9f75d?q=80&w=600&auto=format&fit=crop",
+    "description": "Modern slim fit blazer suitable for receptions, cocktail parties, and wedding evenings.",
+    "features": [
+      "Slim Fit Design",
+      "Premium Fabric",
+      "Formal Styling",
+      "Comfortable Wear"
+    ],
+    "pros": [
+      "Modern stylish look",
+      "Versatile styling",
+      "Professional finish",
+      "Good fitting"
+    ],
+    "cons": [
+      "Warm for summer events",
+      "Requires proper fitting"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Van+Heusen+blazer+men",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Van Heusen",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Libras appreciate balanced and elegant fashion combinations."
+    }
+  },
+  {
+    "id": "prod-73",
+    "title": "Indo-Western Bandhgala Suit",
+    "slug": "indo-western-bandhgala-suit",
+    "price": "₹7,499",
+    "rating": 4.7,
+    "reviewsCount": 3200,
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=600&auto=format&fit=crop",
+    "description": "Stylish Indo-western bandhgala outfit combining modern and traditional wedding fashion.",
+    "features": [
+      "Bandhgala Collar",
+      "Premium Fabric",
+      "Modern Ethnic Style",
+      "Slim Fit Design"
+    ],
+    "pros": [
+      "Trendy appearance",
+      "Unique style",
+      "Comfortable fit",
+      "Perfect for receptions"
+    ],
+    "cons": [
+      "Premium pricing",
+      "Requires styling confidence"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Bandhgala+suit+men",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Ethnix",
+    "zodiac": {
+      "sign": "Aquarius",
+      "symbol": "♒",
+      "dates": "January 20 - February 18",
+      "description": "Aquarius enjoys modern and experimental fashion styles."
+    }
+  },
+  {
+    "id": "prod-74",
+    "title": "Traditional Mojari Jutti Shoes",
+    "slug": "traditional-mojari-jutti-shoes",
+    "price": "₹1,899",
+    "rating": 4.5,
+    "reviewsCount": 8700,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=600&auto=format&fit=crop",
+    "description": "Traditional handcrafted mojari shoes designed for ethnic wedding outfits.",
+    "features": [
+      "Handcrafted Design",
+      "Soft Inner Sole",
+      "Traditional Embroidery",
+      "Lightweight Build"
+    ],
+    "pros": [
+      "Perfect ethnic pairing",
+      "Comfortable",
+      "Stylish traditional look",
+      "Affordable"
+    ],
+    "cons": [
+      "Limited casual use",
+      "Requires careful maintenance"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=mojari+shoes+men",
+    "category": "footwear",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Royal Steps",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus values comfort, elegance, and timeless traditional fashion."
+    }
+  },
+  {
+    "id": "prod-75",
+    "title": "Titan Formal Analog Watch",
+    "slug": "titan-formal-analog-watch",
+    "price": "₹3,299",
+    "rating": 4.7,
+    "reviewsCount": 11200,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=600&auto=format&fit=crop",
+    "description": "Elegant formal watch that complements wedding and reception outfits perfectly.",
+    "features": [
+      "Minimal Analog Dial",
+      "Formal Leather Strap",
+      "Quartz Movement",
+      "Elegant Design"
+    ],
+    "pros": [
+      "Affordable elegance",
+      "Matches formal outfits",
+      "Comfortable fit",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Basic features",
+      "Leather strap requires care"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Titan+formal+watch+men",
+    "category": "accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Titan",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate classy, neat, and elegant accessories."
+    }
+  },
+  {
+    "id": "prod-76",
+    "title": "Bella Vita Luxury Perfume Gift Set",
+    "slug": "bella-vita-luxury-perfume-set",
+    "price": "₹899",
+    "rating": 4.4,
+    "reviewsCount": 21500,
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=600&auto=format&fit=crop",
+    "description": "Luxury perfume set with long-lasting fragrances suitable for weddings and parties.",
+    "features": [
+      "Long-Lasting Fragrance",
+      "Gift Set Packaging",
+      "Multiple Scent Options",
+      "Travel Friendly"
+    ],
+    "pros": [
+      "Affordable",
+      "Good fragrance variety",
+      "Wedding-ready scents",
+      "Attractive packaging"
+    ],
+    "cons": [
+      "Moderate longevity",
+      "Small bottle sizes"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Bella+Vita+perfume+men",
+    "category": "grooming",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Bella Vita",
+    "zodiac": {
+      "sign": "Sagittarius",
+      "symbol": "♐",
+      "dates": "November 22 - December 21",
+      "description": "Sagittarius enjoys energetic and memorable fragrances for social events."
+    }
+  },
+  {
+    "id": "prod-77",
+    "title": "Levi's Genuine Leather Belt",
+    "slug": "levis-genuine-leather-belt",
+    "price": "₹1,499",
+    "rating": 4.7,
+    "reviewsCount": 18400,
+    "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=600&auto=format&fit=crop",
+    "description": "Classic genuine leather belt designed for formal and casual everyday styling.",
+    "features": [
+      "Genuine Leather",
+      "Classic Buckle Design",
+      "Durable Stitching",
+      "Formal and Casual Use"
+    ],
+    "pros": [
+      "Premium quality",
+      "Long-lasting",
+      "Comfortable fit",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Needs leather care",
+      "Limited color options"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Levis+leather+belt+men",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Levi's",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns appreciate durable and timeless fashion essentials."
+    }
+  },
+  {
+    "id": "prod-78",
+    "title": "Tommy Hilfiger Reversible Belt",
+    "slug": "tommy-hilfiger-reversible-belt",
+    "price": "₹2,299",
+    "rating": 4.8,
+    "reviewsCount": 9700,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=600&auto=format&fit=crop",
+    "description": "Premium reversible belt with black and brown dual-color styling for versatile fashion.",
+    "features": [
+      "Reversible Design",
+      "Dual Color Options",
+      "Premium Leather Finish",
+      "Elegant Buckle"
+    ],
+    "pros": [
+      "Two colors in one",
+      "Premium appearance",
+      "Versatile styling",
+      "Travel friendly"
+    ],
+    "cons": [
+      "Premium pricing",
+      "Slightly stiff initially"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Tommy+Hilfiger+reversible+belt",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Tommy Hilfiger",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Libras enjoy balanced, stylish, and versatile fashion accessories."
+    }
+  },
+  {
+    "id": "prod-79",
+    "title": "Van Heusen Formal Leather Belt",
+    "slug": "van-heusen-formal-leather-belt",
+    "price": "₹999",
+    "rating": 4.6,
+    "reviewsCount": 12100,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=600&auto=format&fit=crop",
+    "description": "Elegant formal belt designed for office wear, interviews, and professional outfits.",
+    "features": [
+      "Smooth Leather Finish",
+      "Formal Buckle Design",
+      "Lightweight Build",
+      "Comfort Fit"
+    ],
+    "pros": [
+      "Affordable",
+      "Professional look",
+      "Easy styling",
+      "Comfortable daily wear"
+    ],
+    "cons": [
+      "Basic design",
+      "Average leather thickness"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Van+Heusen+formal+belt",
+    "category": "fashion",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Van Heusen",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos prefer clean, neat, and practical fashion choices."
+    }
+  },
+  {
+    "id": "prod-80",
+    "title": "Nike Casual Canvas Belt",
+    "slug": "nike-casual-canvas-belt",
+    "price": "₹1,299",
+    "rating": 4.5,
+    "reviewsCount": 7600,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=600&auto=format&fit=crop",
+    "description": "Casual canvas belt ideal for jeans, cargo pants, and everyday streetwear outfits.",
+    "features": [
+      "Canvas Material",
+      "Adjustable Fit",
+      "Matte Metal Buckle",
+      "Casual Design"
+    ],
+    "pros": [
+      "Comfortable",
+      "Lightweight",
+      "Modern casual look",
+      "Affordable"
+    ],
+    "cons": [
+      "Not suitable for formal wear",
+      "Fabric may wear over time"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Nike+canvas+belt",
+    "category": "casual-fashion",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Nike",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Geminis enjoy energetic and relaxed casual fashion styles."
+    }
+  },
+  {
+    "id": "prod-81",
+    "title": "Titan Premium Leather Belt",
+    "slug": "titan-premium-leather-belt",
+    "price": "₹1,799",
+    "rating": 4.7,
+    "reviewsCount": 6800,
+    "image": "https://images.unsplash.com/photo-1506629905607-c28f4f82f98b?q=80&w=600&auto=format&fit=crop",
+    "description": "Premium leather belt designed for formal occasions and classy everyday wear.",
+    "features": [
+      "Premium Leather Finish",
+      "Elegant Metal Buckle",
+      "Formal Styling",
+      "Durable Construction"
+    ],
+    "pros": [
+      "Elegant appearance",
+      "Strong build quality",
+      "Comfortable",
+      "Trusted Indian brand"
+    ],
+    "cons": [
+      "Limited casual use",
+      "Requires leather care"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Titan+leather+belt+men",
+    "category": "fashion",
+    "isTrending": false,
+    "isDeal": false,
+    "brand": "Titan",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus values comfort, quality, and timeless accessories."
+    }
+  },
+  {
+    "id": "prod-82",
+    "title": "Louis Philippe Formal Belt",
+    "slug": "louis-philippe-formal-belt",
+    "price": "₹1,599",
+    "rating": 4.7,
+    "reviewsCount": 9200,
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=600&auto=format&fit=crop",
+    "description": "Sophisticated formal belt with premium finish for office and professional fashion.",
+    "features": [
+      "Formal Leather Finish",
+      "Premium Buckle",
+      "Smooth Texture",
+      "Elegant Styling"
+    ],
+    "pros": [
+      "Professional appearance",
+      "Premium finish",
+      "Comfortable fit",
+      "Good durability"
+    ],
+    "cons": [
+      "Slightly expensive",
+      "Limited color range"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Louis+Philippe+belt",
+    "category": "fashion",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Louis Philippe",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos enjoy elegant and premium-looking fashion accessories."
+    }
+  },
+  {
+    "id": "prod-83",
+    "title": "Puma Adjustable Casual Belt",
+    "slug": "puma-adjustable-casual-belt",
+    "price": "₹899",
+    "rating": 4.4,
+    "reviewsCount": 5100,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=600&auto=format&fit=crop",
+    "description": "Sporty casual belt with adjustable fitting and lightweight comfort for daily wear.",
+    "features": [
+      "Adjustable Strap",
+      "Lightweight Design",
+      "Casual Styling",
+      "Comfort Fit"
+    ],
+    "pros": [
+      "Affordable",
+      "Comfortable",
+      "Easy adjustment",
+      "Good for casual wear"
+    ],
+    "cons": [
+      "Not suitable for formal outfits",
+      "Basic design"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Puma+casual+belt+men",
+    "category": "casual-fashion",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Puma",
+    "zodiac": {
+      "sign": "Sagittarius",
+      "symbol": "♐",
+      "dates": "November 22 - December 21",
+      "description": "Sagittarius enjoys sporty, practical, and comfortable fashion accessories."
+    }
+  },
+  {
+    "id": "prod-84",
+    "title": "Skybags Casual Laptop Backpack",
+    "slug": "skybags-casual-laptop-backpack",
+    "price": "₹1,799",
+    "rating": 4.6,
+    "reviewsCount": 24800,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=600&auto=format&fit=crop",
+    "description": "Stylish and spacious backpack suitable for college, office, and daily commuting.",
+    "features": [
+      "Laptop Compartment",
+      "Water Resistant Material",
+      "Multiple Storage Pockets",
+      "Comfortable Shoulder Straps"
+    ],
+    "pros": [
+      "Good storage capacity",
+      "Comfortable",
+      "Affordable",
+      "Modern design"
+    ],
+    "cons": [
+      "Average zipper quality",
+      "Limited premium feel"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Skybags+laptop+backpack",
+    "category": "bags",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Skybags",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Geminis enjoy versatile and practical accessories for active lifestyles."
+    }
+  },
+  {
+    "id": "prod-85",
+    "title": "Wildcraft Travel Duffle Bag",
+    "slug": "wildcraft-travel-duffle-bag",
+    "price": "₹2,499",
+    "rating": 4.7,
+    "reviewsCount": 13800,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=600&auto=format&fit=crop",
+    "description": "Large duffle bag perfect for gym sessions, short trips, and weekend travel.",
+    "features": [
+      "Spacious Main Compartment",
+      "Durable Material",
+      "Adjustable Shoulder Strap",
+      "Lightweight Design"
+    ],
+    "pros": [
+      "Large storage space",
+      "Travel friendly",
+      "Durable",
+      "Comfortable carrying"
+    ],
+    "cons": [
+      "No laptop section",
+      "Limited internal organization"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Wildcraft+duffle+bag",
+    "category": "travel-bags",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Wildcraft",
+    "zodiac": {
+      "sign": "Sagittarius",
+      "symbol": "♐",
+      "dates": "November 22 - December 21",
+      "description": "Sagittarius loves travel, adventure, and practical travel accessories."
+    }
+  },
+  {
+    "id": "prod-86",
+    "title": "American Tourister Trolley Bag",
+    "slug": "american-tourister-trolley-bag",
+    "price": "₹4,999",
+    "rating": 4.8,
+    "reviewsCount": 31200,
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?q=80&w=600&auto=format&fit=crop",
+    "description": "Durable trolley suitcase designed for vacations, business trips, and long-distance travel.",
+    "features": [
+      "360° Spinner Wheels",
+      "Hard Shell Body",
+      "Expandable Storage",
+      "TSA Lock Support"
+    ],
+    "pros": [
+      "Excellent durability",
+      "Smooth movement",
+      "Large storage",
+      "Travel friendly"
+    ],
+    "cons": [
+      "Bulky for daily use",
+      "Higher pricing"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=American+Tourister+trolley+bag",
+    "category": "travel-bags",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "American Tourister",
+    "zodiac": {
+      "sign": "Aquarius",
+      "symbol": "♒",
+      "dates": "January 20 - February 18",
+      "description": "Aquarius values smart and practical travel solutions."
+    }
+  },
+  {
+    "id": "prod-87",
+    "title": "Lavie Crossbody Sling Bag",
+    "slug": "lavie-crossbody-sling-bag",
+    "price": "₹1,299",
+    "rating": 4.5,
+    "reviewsCount": 9400,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=600&auto=format&fit=crop",
+    "description": "Compact and stylish sling bag suitable for casual outings and daily essentials.",
+    "features": [
+      "Lightweight Design",
+      "Adjustable Strap",
+      "Compact Storage",
+      "Fashionable Look"
+    ],
+    "pros": [
+      "Easy to carry",
+      "Stylish appearance",
+      "Affordable",
+      "Good for essentials"
+    ],
+    "cons": [
+      "Limited storage",
+      "Not ideal for heavy items"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Lavie+sling+bag",
+    "category": "fashion-bags",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Lavie",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Libras enjoy stylish and aesthetically pleasing fashion accessories."
+    }
+  },
+  {
+    "id": "prod-88",
+    "title": "F Gear Leather Laptop Bag",
+    "slug": "fgear-leather-laptop-bag",
+    "price": "₹2,999",
+    "rating": 4.6,
+    "reviewsCount": 8200,
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=600&auto=format&fit=crop",
+    "description": "Professional leather laptop bag designed for office, meetings, and formal environments.",
+    "features": [
+      "Laptop Protection Compartment",
+      "Premium Leather Finish",
+      "Formal Design",
+      "Adjustable Shoulder Strap"
+    ],
+    "pros": [
+      "Professional appearance",
+      "Good laptop safety",
+      "Elegant design",
+      "Comfortable carrying"
+    ],
+    "cons": [
+      "Slightly heavy",
+      "Needs maintenance"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=F+Gear+laptop+bag",
+    "category": "office-bags",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "F Gear",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns appreciate organized and professional accessories."
+    }
+  },
+  {
+    "id": "prod-89",
+    "title": "Puma Sports Gym Bag",
+    "slug": "puma-sports-gym-bag",
+    "price": "₹1,899",
+    "rating": 4.5,
+    "reviewsCount": 11800,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=600&auto=format&fit=crop",
+    "description": "Sporty gym duffle bag suitable for fitness sessions, sports, and active lifestyles.",
+    "features": [
+      "Spacious Compartments",
+      "Sporty Lightweight Design",
+      "Durable Fabric",
+      "Easy Carry Handles"
+    ],
+    "pros": [
+      "Good for gym use",
+      "Lightweight",
+      "Affordable",
+      "Modern sporty look"
+    ],
+    "cons": [
+      "Limited formal use",
+      "Average waterproofing"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Puma+gym+bag",
+    "category": "sports-bags",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Puma",
+    "zodiac": {
+      "sign": "Aries",
+      "symbol": "♈",
+      "dates": "March 21 - April 19",
+      "description": "Aries enjoys active lifestyles and sporty accessories."
+    }
+  },
+  {
+    "id": "prod-90",
+    "title": "Safari Canvas Casual Backpack",
+    "slug": "safari-canvas-casual-backpack",
+    "price": "₹1,499",
+    "rating": 4.4,
+    "reviewsCount": 7600,
+    "image": "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7?q=80&w=600&auto=format&fit=crop",
+    "description": "Casual canvas backpack ideal for daily use, college, and relaxed travel.",
+    "features": [
+      "Canvas Material",
+      "Multiple Compartments",
+      "Comfort Fit Straps",
+      "Minimal Casual Design"
+    ],
+    "pros": [
+      "Affordable",
+      "Comfortable",
+      "Stylish casual look",
+      "Good storage"
+    ],
+    "cons": [
+      "Canvas stains easily",
+      "Limited waterproofing"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Safari+canvas+backpack",
+    "category": "bags",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Safari",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Cancer values comfort, practicality, and reliable everyday accessories."
+    }
+  },
+  {
+    "id": "prod-91",
+    "title": "Titan Neo Analog Watch",
+    "slug": "titan-neo-analog-watch",
+    "price": "₹3,499",
+    "rating": 4.7,
+    "reviewsCount": 14200,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=600&auto=format&fit=crop",
+    "description": "Elegant analog watch suitable for office, interviews, weddings, and daily formal styling.",
+    "features": [
+      "Minimal Analog Dial",
+      "Leather Strap",
+      "Quartz Movement",
+      "Elegant Design"
+    ],
+    "pros": [
+      "Professional appearance",
+      "Comfortable fit",
+      "Trusted brand",
+      "Affordable elegance"
+    ],
+    "cons": [
+      "Basic feature set",
+      "Leather strap needs care"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Titan+Neo+watch",
+    "category": "accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Titan",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns appreciate classy and professional accessories."
+    }
+  },
+  {
+    "id": "prod-92",
+    "title": "Ray-Ban Aviator Sunglasses",
+    "slug": "rayban-aviator-sunglasses",
+    "price": "₹8,999",
+    "rating": 4.8,
+    "reviewsCount": 28700,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=600&auto=format&fit=crop",
+    "description": "Classic aviator sunglasses with premium UV protection and timeless fashion appeal.",
+    "features": [
+      "UV Protection",
+      "Metal Frame",
+      "Classic Aviator Style",
+      "Lightweight Build"
+    ],
+    "pros": [
+      "Stylish look",
+      "Premium quality",
+      "Comfortable",
+      "Timeless design"
+    ],
+    "cons": [
+      "Expensive",
+      "Requires careful handling"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Ray+Ban+aviator+sunglasses",
+    "category": "fashion-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Ray-Ban",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos love bold and attention-grabbing fashion accessories."
+    }
+  },
+  {
+    "id": "prod-93",
+    "title": "Bellroy Slim Leather Wallet",
+    "slug": "bellroy-slim-leather-wallet",
+    "price": "₹7,999",
+    "rating": 4.8,
+    "reviewsCount": 9600,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=600&auto=format&fit=crop",
+    "description": "Premium minimalist leather wallet with RFID protection and slim everyday carry design.",
+    "features": [
+      "RFID Blocking",
+      "Slim Design",
+      "Premium Leather",
+      "Multiple Card Slots"
+    ],
+    "pros": [
+      "Premium feel",
+      "Compact",
+      "Secure storage",
+      "Elegant look"
+    ],
+    "cons": [
+      "Premium pricing",
+      "Limited cash space"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Bellroy+wallet",
+    "category": "accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Bellroy",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate organized and functional accessories."
+    }
+  },
+  {
+    "id": "prod-94",
+    "title": "Levi's Genuine Leather Belt",
+    "slug": "levis-genuine-leather-belt",
+    "price": "₹1,499",
+    "rating": 4.7,
+    "reviewsCount": 18400,
+    "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=600&auto=format&fit=crop",
+    "description": "Classic leather belt suitable for office wear, weddings, and casual outfits.",
+    "features": [
+      "Genuine Leather",
+      "Classic Buckle",
+      "Durable Stitching",
+      "Comfort Fit"
+    ],
+    "pros": [
+      "Long-lasting",
+      "Professional appearance",
+      "Versatile styling",
+      "Comfortable"
+    ],
+    "cons": [
+      "Needs maintenance",
+      "Limited color options"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Levis+leather+belt",
+    "category": "fashion-accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Levi's",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus values comfort, quality, and timeless style."
+    }
+  },
+  {
+    "id": "prod-95",
+    "title": "Wild Stone Edge Perfume",
+    "slug": "wild-stone-edge-perfume",
+    "price": "₹349",
+    "rating": 4.4,
+    "reviewsCount": 23100,
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=600&auto=format&fit=crop",
+    "description": "Affordable masculine fragrance with fresh and energetic notes for everyday confidence.",
+    "features": [
+      "Long-Lasting Fragrance",
+      "Fresh Notes",
+      "Travel Friendly Bottle",
+      "Everyday Use"
+    ],
+    "pros": [
+      "Affordable",
+      "Pleasant fragrance",
+      "Good for daily wear",
+      "Easy availability"
+    ],
+    "cons": [
+      "Moderate longevity",
+      "Simple scent profile"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Wild+Stone+Edge+perfume",
+    "category": "grooming",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Wild Stone",
+    "zodiac": {
+      "sign": "Aries",
+      "symbol": "♈",
+      "dates": "March 21 - April 19",
+      "description": "Aries enjoy energetic and bold fragrances."
+    }
+  },
+  {
+    "id": "prod-96",
+    "title": "Skybags Laptop Backpack",
+    "slug": "skybags-laptop-backpack",
+    "price": "₹1,999",
+    "rating": 4.6,
+    "reviewsCount": 24800,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=600&auto=format&fit=crop",
+    "description": "Stylish and spacious backpack suitable for office, college, and travel use.",
+    "features": [
+      "Laptop Compartment",
+      "Water Resistant",
+      "Comfortable Straps",
+      "Multiple Storage Pockets"
+    ],
+    "pros": [
+      "Good storage",
+      "Affordable",
+      "Comfortable",
+      "Modern design"
+    ],
+    "cons": [
+      "Average zipper quality",
+      "Limited premium feel"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Skybags+laptop+backpack",
+    "category": "bags",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Skybags",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Geminis prefer versatile and practical everyday accessories."
+    }
+  },
+  {
+    "id": "prod-97",
+    "title": "Voyage Stainless Steel Bracelet",
+    "slug": "voyage-stainless-steel-bracelet",
+    "price": "₹799",
+    "rating": 4.3,
+    "reviewsCount": 7200,
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?q=80&w=600&auto=format&fit=crop",
+    "description": "Minimal stainless steel bracelet designed for modern casual and party fashion.",
+    "features": [
+      "Stainless Steel Build",
+      "Adjustable Fit",
+      "Minimal Design",
+      "Lightweight Style"
+    ],
+    "pros": [
+      "Affordable",
+      "Stylish",
+      "Lightweight",
+      "Modern fashion appeal"
+    ],
+    "cons": [
+      "Basic design",
+      "Limited formal use"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=mens+bracelet+stainless+steel",
+    "category": "fashion-accessories",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Voyage",
+    "zodiac": {
+      "sign": "Scorpio",
+      "symbol": "♏",
+      "dates": "October 23 - November 21",
+      "description": "Scorpios enjoy bold and stylish accessories with personality."
+    }
+  },
+  {
+    "id": "prod-98",
+    "title": "Blue Yeti USB Microphone",
+    "slug": "blue-yeti-usb-microphone",
+    "price": "₹11,999",
+    "rating": 4.8,
+    "reviewsCount": 58200,
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?q=80&w=600&auto=format&fit=crop",
+    "description": "Professional USB microphone ideal for YouTube videos, podcasts, streaming, and voice recordings.",
+    "features": [
+      "USB Plug and Play",
+      "Multiple Recording Modes",
+      "Studio Quality Audio",
+      "Built-in Gain Control"
+    ],
+    "pros": [
+      "Excellent audio quality",
+      "Easy setup",
+      "Professional sound",
+      "Popular creator choice"
+    ],
+    "cons": [
+      "Bulky design",
+      "Premium price"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Blue+Yeti+USB+microphone",
+    "category": "creator-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Blue",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate precision, clarity, and professional-quality tools."
+    }
+  },
+  {
+    "id": "prod-99",
+    "title": "Digitek Ring Light with Tripod",
+    "slug": "digitek-ring-light-tripod",
+    "price": "₹2,499",
+    "rating": 4.6,
+    "reviewsCount": 21400,
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=600&auto=format&fit=crop",
+    "description": "LED ring light with adjustable tripod stand for reels, livestreams, makeup, and video content.",
+    "features": [
+      "Adjustable Brightness",
+      "Phone Holder Included",
+      "Tripod Stand",
+      "USB Powered"
+    ],
+    "pros": [
+      "Affordable",
+      "Improves lighting quality",
+      "Easy setup",
+      "Perfect for beginners"
+    ],
+    "cons": [
+      "Plastic build",
+      "Limited outdoor use"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Digitek+ring+light",
+    "category": "creator-accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Digitek",
+    "zodiac": {
+      "sign": "Libra",
+      "symbol": "♎",
+      "dates": "September 23 - October 22",
+      "description": "Libras value aesthetics and visually pleasing content setups."
+    }
+  },
+  {
+    "id": "prod-100",
+    "title": "Sony WH-CH520 Wireless Headphones",
+    "slug": "sony-wh-ch520-wireless-headphones",
+    "price": "₹4,490",
+    "rating": 4.7,
+    "reviewsCount": 38700,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=600&auto=format&fit=crop",
+    "description": "Comfortable wireless headphones suitable for editing, music monitoring, and long creator sessions.",
+    "features": [
+      "Wireless Bluetooth Connectivity",
+      "Long Battery Life",
+      "Comfortable Ear Cushions",
+      "Built-in Microphone"
+    ],
+    "pros": [
+      "Comfortable for long use",
+      "Good sound quality",
+      "Affordable",
+      "Reliable battery life"
+    ],
+    "cons": [
+      "Basic bass response",
+      "No active noise cancellation"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Sony+WH-CH520",
+    "category": "creator-accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Sony",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Geminis enjoy multitasking and versatile tech accessories."
+    }
+  },
+  {
+    "id": "prod-101",
+    "title": "Amazon Basics Tripod Stand",
+    "slug": "amazon-basics-tripod-stand",
+    "price": "₹1,799",
+    "rating": 4.5,
+    "reviewsCount": 15600,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=600&auto=format&fit=crop",
+    "description": "Lightweight tripod stand for mobile phones, DSLR cameras, and content recording setups.",
+    "features": [
+      "Adjustable Height",
+      "Lightweight Design",
+      "Phone Mount Included",
+      "Portable Build"
+    ],
+    "pros": [
+      "Affordable",
+      "Stable recording",
+      "Portable",
+      "Easy to use"
+    ],
+    "cons": [
+      "Limited heavy camera support",
+      "Plastic joints"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Amazon+Basics+tripod",
+    "category": "creator-accessories",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Amazon Basics",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Cancer values comfort, practicality, and reliable everyday tools."
+    }
+  },
+  {
+    "id": "prod-102",
+    "title": "HP Wireless Keyboard and Mouse Combo",
+    "slug": "hp-wireless-keyboard-mouse-combo",
+    "price": "₹2,299",
+    "rating": 4.4,
+    "reviewsCount": 19300,
+    "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?q=80&w=600&auto=format&fit=crop",
+    "description": "Wireless productivity combo for creators working on editing, designing, and content management.",
+    "features": [
+      "Wireless Connectivity",
+      "Silent Typing",
+      "Compact Design",
+      "Long Battery Life"
+    ],
+    "pros": [
+      "Comfortable workflow",
+      "Affordable",
+      "Clean desk setup",
+      "Easy connectivity"
+    ],
+    "cons": [
+      "Basic gaming performance",
+      "Plastic build"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=HP+wireless+keyboard+mouse+combo",
+    "category": "creator-accessories",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "HP",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns appreciate organized and productive work setups."
+    }
+  },
+  {
+    "id": "prod-103",
+    "title": "Skybags Camera and Laptop Backpack",
+    "slug": "skybags-camera-laptop-backpack",
+    "price": "₹3,499",
+    "rating": 4.6,
+    "reviewsCount": 11200,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=600&auto=format&fit=crop",
+    "description": "Spacious padded backpack designed for carrying laptops, cameras, microphones, and creator gear.",
+    "features": [
+      "Padded Compartments",
+      "Laptop Protection",
+      "Water Resistant Material",
+      "Comfortable Shoulder Straps"
+    ],
+    "pros": [
+      "Good gear protection",
+      "Comfortable travel",
+      "Large storage",
+      "Affordable"
+    ],
+    "cons": [
+      "Slightly bulky",
+      "Limited premium finish"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Camera+laptop+backpack",
+    "category": "creator-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Skybags",
+    "zodiac": {
+      "sign": "Sagittarius",
+      "symbol": "♐",
+      "dates": "November 22 - December 21",
+      "description": "Sagittarius enjoys travel-friendly and practical accessories."
+    }
+  },
+  {
+    "id": "prod-104",
+    "title": "boAt Aavante Soundbar",
+    "slug": "boat-aavante-soundbar",
+    "price": "₹5,999",
+    "rating": 4.5,
+    "reviewsCount": 17800,
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?q=80&w=600&auto=format&fit=crop",
+    "description": "Powerful soundbar for creators who edit videos, stream content, and enjoy immersive audio.",
+    "features": [
+      "Bluetooth Connectivity",
+      "Powerful Bass",
+      "Multiple Audio Modes",
+      "Remote Control Support"
+    ],
+    "pros": [
+      "Great sound output",
+      "Affordable",
+      "Stylish design",
+      "Good for editing setup"
+    ],
+    "cons": [
+      "Bass can overpower vocals",
+      "Large desk space needed"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=boAt+Aavante+soundbar",
+    "category": "creator-accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "boAt",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos enjoy bold and immersive entertainment experiences."
+    }
+  },
+  {
+    "id": "prod-105",
+    "title": "Qubo Smart Dash Camera",
+    "slug": "qubo-smart-dash-camera",
+    "price": "₹3,990",
+    "rating": 4.5,
+    "reviewsCount": 21400,
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=600&auto=format&fit=crop",
+    "description": "Smart dash camera with full HD recording and parking monitoring for improved driving security.",
+    "features": [
+      "Full HD Recording",
+      "Night Vision",
+      "Parking Monitor",
+      "Wide Angle Lens"
+    ],
+    "pros": [
+      "Good video quality",
+      "Improves safety",
+      "Easy installation",
+      "Reliable recording"
+    ],
+    "cons": [
+      "Needs memory card",
+      "Average app interface"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Qubo+dash+camera",
+    "category": "car-accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Qubo",
+    "zodiac": {
+      "sign": "Capricorn",
+      "symbol": "♑",
+      "dates": "December 22 - January 19",
+      "description": "Capricorns value practical and security-focused technology."
+    }
+  },
+  {
+    "id": "prod-106",
+    "title": "Portronics Car Mobile Holder",
+    "slug": "portronics-car-mobile-holder",
+    "price": "₹699",
+    "rating": 4.4,
+    "reviewsCount": 38600,
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?q=80&w=600&auto=format&fit=crop",
+    "description": "Strong magnetic phone holder designed for navigation and hands-free driving convenience.",
+    "features": [
+      "360° Rotation",
+      "Strong Magnetic Grip",
+      "Dashboard Mount",
+      "Compact Design"
+    ],
+    "pros": [
+      "Affordable",
+      "Easy installation",
+      "Strong grip",
+      "Useful for navigation"
+    ],
+    "cons": [
+      "Magnet may affect cards",
+      "Limited large phone support"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Portronics+car+mobile+holder",
+    "category": "car-accessories",
+    "isTrending": true,
+    "isDeal": true,
+    "brand": "Portronics",
+    "zodiac": {
+      "sign": "Gemini",
+      "symbol": "♊",
+      "dates": "May 21 - June 20",
+      "description": "Geminis appreciate smart and practical tech accessories."
+    }
+  },
+  {
+    "id": "prod-107",
+    "title": "Tusa Wireless Car Charger",
+    "slug": "tusa-wireless-car-charger",
+    "price": "₹1,899",
+    "rating": 4.5,
+    "reviewsCount": 9700,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=600&auto=format&fit=crop",
+    "description": "Wireless charging mount that keeps smartphones charged during long drives and travel.",
+    "features": [
+      "Wireless Fast Charging",
+      "Automatic Clamping",
+      "Dashboard Mount",
+      "Universal Compatibility"
+    ],
+    "pros": [
+      "Convenient charging",
+      "Modern design",
+      "Good grip",
+      "Useful for travel"
+    ],
+    "cons": [
+      "Charging speed varies",
+      "Needs compatible phones"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=wireless+car+charger",
+    "category": "car-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Tusa",
+    "zodiac": {
+      "sign": "Aquarius",
+      "symbol": "♒",
+      "dates": "January 20 - February 18",
+      "description": "Aquarius enjoys futuristic and tech-focused gadgets."
+    }
+  },
+  {
+    "id": "prod-108",
+    "title": "Black+Decker Car Vacuum Cleaner",
+    "slug": "blackdecker-car-vacuum-cleaner",
+    "price": "₹2,799",
+    "rating": 4.6,
+    "reviewsCount": 11800,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=600&auto=format&fit=crop",
+    "description": "Portable car vacuum cleaner designed for cleaning dust, crumbs, and pet hair easily.",
+    "features": [
+      "Portable Design",
+      "Strong Suction Power",
+      "Long Power Cable",
+      "Reusable Dust Filter"
+    ],
+    "pros": [
+      "Keeps car clean",
+      "Easy to use",
+      "Strong suction",
+      "Compact storage"
+    ],
+    "cons": [
+      "Corded design",
+      "Noisy motor"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Black+Decker+car+vacuum+cleaner",
+    "category": "car-accessories",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Black+Decker",
+    "zodiac": {
+      "sign": "Virgo",
+      "symbol": "♍",
+      "dates": "August 23 - September 22",
+      "description": "Virgos appreciate cleanliness, organization, and practical tools."
+    }
+  },
+  {
+    "id": "prod-109",
+    "title": "Godrej Car Air Purifier",
+    "slug": "godrej-car-air-purifier",
+    "price": "₹4,499",
+    "rating": 4.4,
+    "reviewsCount": 6200,
+    "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=600&auto=format&fit=crop",
+    "description": "Compact car air purifier that improves air quality and removes odors during travel.",
+    "features": [
+      "HEPA Filtration",
+      "Compact Design",
+      "Odor Removal",
+      "USB Powered"
+    ],
+    "pros": [
+      "Fresh cabin air",
+      "Compact size",
+      "Easy installation",
+      "Useful for allergies"
+    ],
+    "cons": [
+      "Filter replacement cost",
+      "Limited large-car coverage"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Godrej+car+air+purifier",
+    "category": "car-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Godrej",
+    "zodiac": {
+      "sign": "Cancer",
+      "symbol": "♋",
+      "dates": "June 21 - July 22",
+      "description": "Cancer values comfort and a clean environment during travel."
+    }
+  },
+  {
+    "id": "prod-110",
+    "title": "Autofurnish Neck Rest Cushion Set",
+    "slug": "autofurnish-neck-rest-cushion-set",
+    "price": "₹1,299",
+    "rating": 4.5,
+    "reviewsCount": 8900,
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=600&auto=format&fit=crop",
+    "description": "Comfortable neck rest cushions designed to reduce fatigue during long drives.",
+    "features": [
+      "Memory Foam Cushion",
+      "Soft Fabric Cover",
+      "Easy Installation",
+      "Ergonomic Support"
+    ],
+    "pros": [
+      "Comfortable for long drives",
+      "Affordable",
+      "Easy setup",
+      "Reduces neck strain"
+    ],
+    "cons": [
+      "Limited color options",
+      "May feel bulky for some users"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=car+neck+rest+cushion",
+    "category": "car-accessories",
+    "isTrending": false,
+    "isDeal": true,
+    "brand": "Autofurnish",
+    "zodiac": {
+      "sign": "Taurus",
+      "symbol": "♉",
+      "dates": "April 20 - May 20",
+      "description": "Taurus values comfort and relaxing travel experiences."
+    }
+  },
+  {
+    "id": "prod-111",
+    "title": "Meguiar's Car Cleaning Kit",
+    "slug": "meguiars-car-cleaning-kit",
+    "price": "₹2,499",
+    "rating": 4.7,
+    "reviewsCount": 7400,
+    "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?q=80&w=600&auto=format&fit=crop",
+    "description": "Complete car cleaning and polishing kit for maintaining shine and cleanliness.",
+    "features": [
+      "Car Shampoo",
+      "Microfiber Cloths",
+      "Wax Polish",
+      "Interior Cleaner"
+    ],
+    "pros": [
+      "Complete cleaning solution",
+      "Good shine quality",
+      "Trusted brand",
+      "Easy to use"
+    ],
+    "cons": [
+      "Requires manual effort",
+      "Premium pricing"
+    ],
+    "affiliateLink": "https://www.amazon.in/s?k=Meguiars+car+cleaning+kit",
+    "category": "car-accessories",
+    "isTrending": true,
+    "isDeal": false,
+    "brand": "Meguiar's",
+    "zodiac": {
+      "sign": "Leo",
+      "symbol": "♌",
+      "dates": "July 23 - August 22",
+      "description": "Leos enjoy maintaining stylish and attractive appearances."
+    }
   }
 ]
